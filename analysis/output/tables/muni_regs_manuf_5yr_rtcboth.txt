@@ -1,0 +1,19 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	chg_pct_manufacturing	chg_pct_manufacturing	chg_pct_manufacturing	chg_pct_manufacturing
+					
+RTC2_us00	$ RTC_{r,t}^X$	0.313	0.261	0.0895	0.0743
+		(0.390)	(0.377)	(0.262)	(0.269)
+RTC2_mex00	$ RTC_{r,t}^M$	-0.131	-0.106	-0.270	-0.461
+		(0.473)	(0.458)	(0.367)	(0.362)
+mig5559	% Migrated 1955-59		0.634***		
+			(0.217)		
+Constant	Constant	0.0109	0.00273	-0.0154	-0.0507
+		(0.0432)	(0.0365)	(0.0302)	(0.0303)
+					
+Observations		616	616	616	616
+R-squared		0.009	0.123	0.465	0.492
+Weighted		Y	Y	Y	Y
+State FE		N	N	Y	Y
+Controls		N	N	N	Y
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

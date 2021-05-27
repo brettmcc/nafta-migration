@@ -1,0 +1,23 @@
+"Descripción de la base de datos del índice absoluto de intensidad migratoria México-Estados Unidos, 2000 por municipio",,,,,,,
+,,,,,,,
+Total de registros:,,2456,,,,,
+Total de variables:,,12,,,,,
+,,,,,,,
+Nombre y descripción de las variables,,,,,,,
+,,,,,,,
+NUM,Variable,Descripción,Formato,,,,
+1,AÑO,,,,1,AÑO,
+2,ID_ENTIDAD,Clave de la entidad federativa,Cadena,,2,ID_ENTIDAD,Key of the federative entity
+3,ID_MUNICIPIO,Clave del municipio al interior de la entidad federativa,Cadena,,3,ID_MUNICIPIO,Code of the municipality within the state
+4,MUNICIPIO,Nombre del municipio al interior de la entidad federativa,Cadena,,4,MUNICIPIO,Name of the municipality within the state
+5,TOT_VIV,Total de viviendas particulares habitadas en 2000,Numérico,,5,TOT_VIV,Total of private homes inhabited in 2000
+6,VIV_REM,Porcentaje de viviendas que reciben remesas en 2000,Numérico,,6,VIV_REM,Percentage of households receiving remittances in 2000
+7,VIV_EMIG,Porcentaje de viviendas con emigrantes a EU de los quinquenios 1995-2000,Numérico,,7,VIV_EMIG,Percentage of dwellings with emigrants to the US of the five-year periods 1995-2000
+8,VIV_CIRC,Porcentaje de viviendas con migrantes circulares de los quinquenios 1995-2000,Numérico,,8,VIV_CIRC,Percentage of dwellings with circular migrants of the five-year period 1995-2000
+9,VIV_RET,Porcentaje de viviendas con migrantes de retorno de los quinquenios 1995-2000,Numérico,,9,VIV_RET,Percentage of dwellings with return migrants of the five-year periods 1995-2000
+10,IAIM,Índice absoluto de intensidad migratoria 2000,Numérico,,10,IAIM,Absolute index of migratory intensity 2000
+11,GAIM,Grado absoluto de intensidad migratoria 2000,Cadena,,11,GAIM,Absolute degree of migratory intensity 2000
+12,POS,Lugar que ocupa en el contexto nacional 2000 [1],Numérico,,12,POS,Place it occupies in the national context 2000 [1]
+,,,,,,,
+Nota: [1] Se excluyeron 96 municipios en 2000.,,,,,,,
+"Fuente: Estimaciones del CONAPO con base en el INEGI, muestras del diez por ciento del XII Censo General de Población y Vivienda 2000.",,,,,,,

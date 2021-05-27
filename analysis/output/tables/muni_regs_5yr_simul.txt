@@ -1,0 +1,20 @@
+		(1)	(2)	(3)	(4)	(5)
+VARIABLES	LABELS	intl_mig_rt2	intl_mig_rt2	intl_mig_rt2	intl_mig_rt2	intl_mig_rt2
+						
+RTC2_us5yr	$ RTC_{r,t}^X$	0.0559		0.194		-2.078***
+		(0.194)		(0.156)		(0.497)
+RTC2_mex5yr	$ RTC_{r,t}^M$		-0.0433		0.636***	1.666***
+			(0.0938)		(0.144)	(0.363)
+Constant	Constant	0.0563***	0.0528***	0.0331***	0.0557***	0.0732***
+		(0.00437)	(0.00704)	(0.00389)	(0.00618)	(0.00840)
+						
+Observations		1,256	1,256	1,256	1,256	1,256
+R-squared		0.000	0.000	0.001	0.025	0.056
+Weighted		N	N	Y	Y	Y
+Year FE		N	N	N	N	N
+State FE		N	N	N	N	N
+Muni. FE		N	N	N	N	N
+Controls		N	N	N	N	N
+Robust standard errors in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						
+Standard errors clustered by municipality.						

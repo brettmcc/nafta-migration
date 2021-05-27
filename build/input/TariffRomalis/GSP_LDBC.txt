@@ -1,0 +1,45 @@
+1989	1990	1991	1992	1993	1994	1995	1996	1997	1998	1999	2000	2001
+								Angola	Angola	Angola 	Angola 	Angola 
+Bangladesh	Bangladesh	Bangladesh	Bangladesh	Bangladesh	Bangladesh	Bangladesh	Bangladesh	Bangladesh	Bangladesh	Bangladesh 	Bangladesh 	Bangladesh 
+Benin	Benin	Benin	Benin	Benin	Benin	Benin	Benin	Benin	Benin	Benin 	Benin 	Benin 
+Bhutan	Bhutan	Bhutan	Bhutan	Bhutan	Bhutan	Bhutan	Bhutan	Bhutan	Bhutan	Bhutan 	Bhutan 	Bhutan 
+Botswana	Botswana	Botswana	Botswana	Botswana	Botswana	Botswana	Botswana					
+Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso 	Burkina Faso 	Burkina Faso 
+Burundi	Burundi	Burundi	Burundi	Burundi	Burundi	Burundi	Burundi	Burundi	Burundi	Burundi 	Burundi 	Burundi 
+									Cambodia	Cambodia 	Cambodia 	Cambodia 
+Cape Verde	Cape Verde	Cape Verde	Cape Verde	Cape Verde	Cape Verde	Cape Verde	Cape Verde	Cape Verde	Cape Verde	Cape Verde 	Cape Verde 	Cape Verde 
+Central African Republic			Central African Republic	Central African Republic	Central African Republic	Central African Republic	Central African Republic	Central African Republic	Central African Republic	Cen African Rep 	Cen African Rep 	Cen African Rep 
+Chad	Chad	Chad	Chad	Chad	Chad	Chad	Chad	Chad	Chad	Chad 	Chad 	Chad 
+Comoros	Comoros	Comoros	Comoros	Comoros	Comoros	Comoros	Comoros	Comoros	Comoros	Comoros 	Comoros 	Comoros 
+Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti 	Djibouti 	Djibouti 
+Equatorial Guinea	Equatorial Guinea	Equatorial Guinea	Equatorial Guinea	Equatorial Guinea	Equatorial Guinea	Equatorial Guinea	Equatorial Guinea	Equatorial Guinea	Equatorial Guinea	Eq Guinea 	Eq Guinea 	Eq Guinea 
+								Ethiopia	Ethiopia	Ethiopia 	Ethiopia 	Ethiopia 
+"Gambia, The"	"Gambia, The"	"Gambia, The"	"Gambia, The"	"Gambia, The "	"Gambia, The "	"Gambia, The"	"Gambia, The"	"Gambia, The"	"Gambia, The"	Gambia 	Gambia 	Gambia 
+Guinea	Guinea	Guinea	Guinea	Guinea	Guinea	Guinea	Guinea	Guinea	Guinea	Guinea 	Guinea 	Guinea 
+Guinea-Bissau	Guinea-Bissau	Guinea-Bissau	Guinea-Bissau	Guinea-Bissau	Guinea-Bissau	Guinea-Bissau	Guinea-Bissau	Guinea-Bissau	Guinea-Bissau	Guinea-Bissau 	Guinea-Bissau 	Guinea-Bissau 
+Haiti	Haiti	Haiti	Haiti	Haiti	Haiti	Haiti	Haiti	Haiti	Haiti	Haiti 	Haiti 	Haiti 
+		Kiribati	Kiribati	Kiribati	Kiribati	Kiribati	Kiribati	Kiribati	Kiribati	Kiribati 	Kiribati 	Kiribati 
+Lesotho	Lesotho	Lesotho	Lesotho	Lesotho	Lesotho	Lesotho	Lesotho	Lesotho	Lesotho	Lesotho 	Lesotho 	Lesotho 
+								Madagascar	Madagascar	Madagascar 	Madagascar 	Madagascar 
+Malawi	Malawi	Malawi	Malawi	Malawi	Malawi	Malawi	Malawi	Malawi	Malawi	Malawi 	Malawi 	Malawi 
+Maldives	Maldives	Maldives	Maldives	Maldives	Maldives	Maldives						
+Mali	Mali	Mali	Mali	Mali	Mali	Mali	Mali	Mali	Mali	Mali 	Mali 	Mali 
+		Mauritania	Mauritania	Mauritania							Mauritania 	Mauritania 
+											Mauritius 	Mauritius 
+		Mozambique	Mozambique	Mozambique	Mozambique	Mozambique	Mozambique	Mozambique	Mozambique	Mozambique 	Mozambique 	Mozambique 
+Nepal	Nepal	Nepal	Nepal	Nepal	Nepal	Nepal	Nepal	Nepal	Nepal	Nepal 	Nepal 	Nepal 
+Niger	Niger	Niger	Niger	Niger	Niger	Niger	Niger	Niger	Niger	Niger 	Niger 	Niger 
+Rwanda	Rwanda	Rwanda	Rwanda	Rwanda 	Rwanda 	Rwanda	Rwanda	Rwanda	Rwanda	Rwanda 	Rwanda 	Rwanda 
+Sao Tome and Principe	Sao Tome and Principe	Sao Tome and Principe	Sao Tome and Principe	Sao Tome and Principe	Sao Tome and Principe	Sao Tome and Principe	Sao Tome and Principe	Sao Tome and Principe	Sao Tome and Principe	Sao Tome & Prin 	Sao Tome & Prin 	Sao Tome & Prin 
+Sierra Leone	Sierra Leone	Sierra Leone	Sierra Leone	Sierra Leone	Sierra Leone	Sierra Leone	Sierra Leone	Sierra Leone	Sierra Leone	Sierra Leone 	Sierra Leone 	Sierra Leone 
+Somalia	Somalia	Somalia	Somalia	Somalia	Somalia	Somalia	Somalia	Somalia	Somalia	Somalia 	Somalia 	Somalia 
+Sudan	Sudan	Sudan										
+Tanzania	Tanzania	Tanzania	Tanzania	Tanzania	Tanzania	Tanzania	Tanzania	Tanzania	Tanzania	Tanzania 	Tanzania 	Tanzania 
+		Togo	Togo	Togo	Togo	Togo	Togo	Togo	Togo	Togo 	Togo 	Togo 
+		Tuvalu	Tuvalu	Tuvalu	Tuvalu	Tuvalu	Tuvalu	Tuvalu	Tuvalu	Tuvalu 	Tuvalu 	Tuvalu 
+Uganda	Uganda	Uganda	Uganda	Uganda	Uganda	Uganda	Uganda	Uganda	Uganda	Uganda 	Uganda 	Uganda 
+		Vanuatu	Vanuatu	Vanuatu	Vanuatu	Vanuatu	Vanuatu	Vanuatu	Vanuatu	Vanuatu 	Vanuatu 	Vanuatu 
+Western Samoa	Western Samoa	Western Samoa	Western Samoa	Western Samoa	Western Samoa	Western Samoa	Western Samoa				Samoa 	Samoa 
+Yemen Arab Republic (Sanaa)	Yemen Arab Republic (Sanaa)	Yemen Arab Republic (Sanaa)	Yemen Arab Republic (Sanaa)	Yemen Arab Republic (Sanaa)	Yemen Arab Republic (Sanaa)	Yemen Arab Republic (Sanaa)	Yemen Arab Republic (Sanaa)	Yemen	Yemen	Yemen 	Yemen 	Yemen 
+								Zaire	Zaire	Congo (DROC) 	Congo (DROC) 	Congo (DROC) 
+								Zambia	Zambia	Zambia 	Zambia 	Zambia 

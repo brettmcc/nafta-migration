@@ -1,0 +1,14 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	pct_chg_labor_force	pct_chg_labor_force	pct_chg_labor_force
+				
+RTC_us00	Export RTC (U.S.)	-6.487***		-7.949***
+		(1.158)		(1.239)
+RTC_mex05	Import RTC (1990-2005)		-5.165***	2.834**
+			(1.183)	(1.040)
+Constant	Constant	-0.355***	-0.836***	-0.0239
+		(0.0372)	(0.158)	(0.131)
+				
+Observations		2,288	2,288	2,288
+R-squared		0.373	0.291	0.378
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

@@ -1,0 +1,17 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	intl_mig_rt2	intl_mig_rt2	intl_mig_rt2	intl_mig_rt_partialhh	intl_mig_rt_partialhh	intl_mig_rt_partialhh
+							
+RTC2_us00	$ RTC_{r,t}^X$	0.346	0.511	0.129	-0.147	0.00806	-0.0715
+		(0.281)	(0.412)	(0.378)	(0.108)	(0.0815)	(0.0809)
+RTC2_mex00	$ RTC_{r,t}^M$	1.134*	1.602**	0.770	0.686**	0.783***	0.580***
+		(0.619)	(0.588)	(0.510)	(0.268)	(0.234)	(0.187)
+Constant	Constant	0.170**	0.229***	0.250***	0.0823***	0.101***	0.0931***
+		(0.0625)	(0.0531)	(0.0645)	(0.0290)	(0.0242)	(0.0221)
+							
+Observations		628	628	628	628	628	628
+R-squared		0.024	0.161	0.232	0.041	0.407	0.442
+Weighted		Y	Y	Y	Y	Y	Y
+State FE		N	Y	Y	N	Y	Y
+Controls		Y	N	Y	Y	N	Y
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

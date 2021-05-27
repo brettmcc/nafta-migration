@@ -1,0 +1,25 @@
+"Descripción de la base de datos del índice absoluto de intensidad migratoria México-Estados Unidos, 2000 por entidad federativa",,,,,
+,,,,,
+Total de registros:,,32,,,
+Total de variables:,,11,,,
+,,,,,
+Nombre y descripción de las variables,,,,,
+,,,,,
+Num,Variable,Descripción,Formato,,Year of completion of the index
+1,AÑO,Año de realización del índice,Numérico,,Key of the federative entity
+2,ID_ENTIDAD,Clave de la entidad federativa,Cadena,,Name of the federative entity
+3,ENTIDAD,Nombre de la entidad federativa,Cadena,,Total of private homes inhabited in 2000
+4,TOT_VIV,Total de viviendas particulares habitadas en 2000,Numérico,,Percentage of households receiving remittances in 2000
+5,VIV_REM,Porcentaje de viviendas que reciben remesas en 2000,Numérico,,Percentage of dwellings with emigrants to the US of the five-year periods 1995-2000
+6,VIV_EMIG,Porcentaje de viviendas con emigrantes a EU de los quinquenios 1995-2000,Numérico,,Percentage of dwellings with circular migrants of the five-year period 1995-2000
+7,VIV_CIRC,Porcentaje de viviendas con migrantes circulares de los quinquenios 1995-2000,Numérico,,Percentage of dwellings with return migrants of the five-year periods 1995-2000
+8,VIV_RET,Porcentaje de viviendas con migrantes de retorno de los quinquenios 1995-2000,Numérico,,Absolute index of migratory intensity 2000
+9,IAIM,Índice absoluto de intensidad migratoria 2000,Numérico,,Absolute degree of migratory intensity 2000
+10,GAIM,Grado absoluto de intensidad migratoria 2000,Cadena,,Place it occupies in the national context 2000 [1]
+11,POS,Lugar que ocupa en el contexto nacional 2000 [1],Numérico,,
+,,,,,
+Nota: Se excluyeron 96 municipios en 2000.,,,,,
+"Fuente: Estimaciones del CONAPO con base en el INEGI, muestras del diez por ciento del XII Censo General de Población y Vivienda 2000.",,,,,
+,,,,,
+Note: 96 municipalities were excluded in 2000.,,,,,
+"Source: CONAPO estimates based on the INEGI, samples of ten percent of the XII General Census of Population and Housing 2000.",,,,,

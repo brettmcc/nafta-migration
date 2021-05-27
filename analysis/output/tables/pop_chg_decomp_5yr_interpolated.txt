@@ -1,0 +1,14 @@
+		(1)	(2)	(3)	(4)	(5)
+VARIABLES	LABELS	prop_chg_labor_force2	intermn_mig_infl_rt2	intermn_mig_outfl_rt2	intl_return_mig_rt2	intl_mig_rt2
+						
+RTC_us5yr	Export RTC (U.S.)	-0.366	-1.266***	-1.138***	-0.0137	0.0969
+		(0.232)	(0.274)	(0.275)	(0.0293)	(0.301)
+RTC_mex5yr	Import RTC	-0.381	0.629***	0.910**	-0.0149	0.125
+		(0.288)	(0.204)	(0.333)	(0.0234)	(0.314)
+Constant	Constant	-0.0582***	0.125***	0.129***	0.00449***	0.0623***
+		(0.0177)	(0.0136)	(0.0246)	(0.00163)	(0.0167)
+						
+Observations		1,256	1,256	1,256	1,256	1,248
+R-squared		0.009	0.056	0.031	0.002	0.001
+Robust standard errors in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						

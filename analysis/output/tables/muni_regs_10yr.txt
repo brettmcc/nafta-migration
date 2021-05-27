@@ -1,0 +1,19 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	intl_mig_rt10yr	intl_mig_rt10yr	intl_mig_rt10yr	intl_mig_rt10yr
+					
+RTC2_us5yr	$ RTC_{r,t}^X$	0.347		-1.292	
+		(1.138)		(1.990)	
+RTC2_mex5yr	$ RTC_{r,t}^M$	-3.374***		-2.389***	
+		(1.135)		(0.883)	
+RTC2_us00	$ RTC_{r,t}^X$		1.162		0.284
+			(0.782)		(0.622)
+RTC2_mex00	$ RTC_{r,t}^M$		2.785**		0.440
+			(1.315)		(1.610)
+Constant	Constant	-0.147	0.449***	-0.165	0.118
+		(0.115)	(0.132)	(0.137)	(0.175)
+					
+Observations		628	628	628	628
+R-squared		0.025	0.013	0.027	0.001
+Weighted		N	N	Y	Y
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

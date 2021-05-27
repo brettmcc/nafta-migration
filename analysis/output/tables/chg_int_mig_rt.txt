@@ -1,0 +1,14 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	chg_intl_mig_rt	chg_intl_mig_rt	chg_intl_mig_rt
+				
+RTC_us00	Export RTC (U.S.)	-1.171		-1.159
+		(0.762)		(1.291)
+RTC_mex05	Import RTC (1990-2005)		-1.421	-0.0225
+			(1.166)	(1.948)
+Constant	Constant	0.0278	-0.124	0.0252
+		(0.0254)	(0.156)	(0.228)
+				
+Observations		32	32	32
+R-squared		0.073	0.047	0.073
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

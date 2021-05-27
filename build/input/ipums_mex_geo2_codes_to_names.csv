@@ -1,0 +1,2673 @@
+Code,Label,MX
+,,2000
+,Aguascalientes,
+1001,Aguascalientes,X
+1002,Asientos,X
+1003,Calvillo,X
+1004,Cosio,X
+1005,Jesus Maria,X
+1006,Pabellon de Arteaga,X
+1007,Rincon de Romos,X
+1008,San Jose de Gracia,X
+1009,Tepezala,X
+1010,"Llano, El",X
+1011,San Francisco de los Romo,X
+,Baja California,
+2001,Ensenada,X
+2002,Mexicali,X
+2003,Tecate,X
+2004,Tijuana,X
+2005,Playas de Rosarito,X
+,Baja California Sur,
+3001,Comondu,X
+3002,Mulege,X
+3003,"Paz, La",X
+3008,"Cabos, Los",X
+3009,Loreto,X
+,Campeche,
+Code,Label,MX
+,,2000
+4001,Calkini,X
+4002,Campeche,X
+4003,Carmen,X
+4004,Champoton,X
+4005,Hecelchakan,X
+4006,Hopelchen,X
+4007,Palizada,X
+4008,Tenabo,X
+4009,Escarcega,X
+4010,Calakmul,X
+4011,Candelaria,X
+,Coahuila,
+5001,Abasolo,X
+5002,Acuna,X
+5003,Allende,X
+5004,Arteaga,X
+5005,Candela,X
+5006,Castanos,X
+5007,Cuatrocienegas,X
+5008,Escobedo,X
+5009,Francisco I. Madero,X
+5010,Frontera,X
+5011,General Cepeda,X
+5012,Guerrero,X
+5013,Hidalgo,X
+Code,Label,MX
+,,2000
+5014,Jimenez,X
+5015,Juarez,X
+5016,Lamadrid,X
+5017,Matamoros,X
+5018,Monclova,X
+5019,Morelos,X
+5020,Muzquiz,X
+5021,Nadadores,X
+5022,Nava,X
+5023,Ocampo,X
+5024,Parras,X
+5025,Piedras Negras,X
+5026,Progreso,X
+5027,Ramos Arizpe,X
+5028,Sabinas,X
+5029,Sacramento,X
+5030,Saltillo,X
+5031,San Buenaventura,X
+5032,San Juan de Sabinas,X
+5033,San Pedro,X
+5034,Sierra Mojada,X
+5035,Torreon,X
+5036,Viesca,X
+5037,Villa Union,X
+5038,Zaragoza,X
+Code,Label,MX
+,,2000
+,Colima,
+6001,Armeria,X
+6002,Colima,X
+6003,Comala,X
+6004,Coquimatlan,X
+6005,Cuauhtemoc,X
+6006,Ixtlahuacan,X
+6007,Manzanillo,X
+6008,Minatitlan,X
+6009,Tecoman,X
+6010,Villa de Alvarez,X
+,Chiapas,
+7001,Acacoyagua,X
+7002,Acala,X
+7003,Acapetahua,X
+7004,Altamirano,X
+7005,Amatan,X
+7006,Amatenango de la Frontera,X
+7007,Amatenango del Valle,X
+7008,Angel Albino Corzo,X
+7009,Arriaga,X
+7010,Bejucal de Ocampo,X
+7011,Bella Vista,X
+7012,Berriozabal,X
+7013,Bochil,X
+Code,Label,MX
+,,2000
+7014,"Bosque, El",X
+7015,Cacahoatan,X
+7016,Catazaja,X
+7017,Cintalapa,X
+7018,Coapilla,X
+7019,Comitan de Dominguez,X
+7020,"Concordia, La",X
+7021,Copainala,X
+7022,Chalchihuitan,X
+7023,Chamula,X
+7024,Chanal,X
+7025,Chapultenango,X
+7026,Chenalho,X
+7027,Chiapa de Corzo,X
+7028,Chiapilla,X
+7029,Chicoasen,X
+7030,Chicomuselo,X
+7031,Chilon,X
+7032,Escuintla,X
+7033,Francisco Leon,X
+7034,Frontera Comalapa,X
+7035,Frontera Hidalgo,X
+7036,"Grandeza, La",X
+7037,Huehuetan,X
+7038,Huixtan,X
+Code,Label,MX
+,,2000
+7039,Huitiupan,X
+7040,Huixtla,X
+7041,"Independencia, La",X
+7042,Ixhuatan,X
+7043,Ixtacomitan,X
+7044,Ixtapa,X
+7045,Ixtapangajoya,X
+7046,Jiquipilas,X
+7047,Jitotol,X
+7048,Juarez,X
+7049,Larrainzar,X
+7050,"Libertad, La",X
+7051,Mapastepec,X
+7052,"Margaritas, Las",X
+7053,Mazapa de Madero,X
+7054,Mazatan,X
+7055,Metapa,X
+7056,Mitontic,X
+7057,Motozintla,X
+7058,Nicolas Ruiz,X
+7059,Ocosingo,X
+7060,Ocotepec,X
+7061,Ocozocoautla de Espinosa,X
+7062,Ostuacan,X
+7063,Osumacinta,X
+Code,Label,MX
+,,2000
+7064,Oxchuc,X
+7065,Palenque,X
+7066,Pantelho,X
+7067,Pantepec,X
+7068,Pichucalco,X
+7069,Pijijiapan,X
+7070,"Porvenir, El",X
+7071,Villa Comaltitlan,X
+7072,Pueblo Nuevo Solistahuacan,X
+7073,Rayon,X
+7074,Reforma,X
+7075,"Rosas, Las",X
+7076,Sabanilla,X
+7077,Salto de Agua,X
+7078,San Cristobal de las Casas,X
+7079,San Fernando,X
+7080,Siltepec,X
+7081,Simojovel,X
+7082,Sitala,X
+7083,Socoltenango,X
+7084,Solosuchiapa,X
+7085,Soyalo,X
+7086,Suchiapa,X
+7087,Suchiate,X
+7088,Sunuapa,X
+Code,Label,MX
+,,2000
+7089,Tapachula,X
+7090,Tapalapa,X
+7091,Tapilula,X
+7092,Tecpatan,X
+7093,Tenejapa,X
+7094,Teopisca,X
+7096,Tila,X
+7097,Tonala,X
+7098,Totolapa,X
+7099,"Trinitaria, La",X
+7100,Tumbala,X
+7101,Tuxtla Gutierrez,X
+7102,Tuxtla Chico,X
+7103,Tuzantan,X
+7104,Tzimol,X
+7105,Union Juarez,X
+7106,Venustiano Carranza,X
+7107,Villa Corzo,X
+7108,Villaflores,X
+7109,Yajalon,X
+7110,San Lucas,X
+7111,Zinacantan,X
+7112,San Juan Cancuc,X
+7113,Aldama,X
+7114,Benemerito de las Americas,X
+Code,Label,MX
+,,2000
+7115,Maravilla Tenejapa,X
+7116,Marques de Comillas,X
+7117,Monte Cristo de Guerrero,X
+7118,San Andres Duraznal,X
+7119,Santiago el Pinar,X
+,Chihuahua,
+8001,Ahumada,X
+8002,Aldama,X
+8003,Allende,X
+8004,Aquiles Serdan,X
+8005,Ascension,X
+8006,Bachiniva,X
+8007,Balleza,X
+8008,Batopilas,X
+8009,Bocoyna,X
+8010,Buenaventura,X
+8011,Camargo,X
+8012,Carichi,X
+8013,Casas Grandes,X
+8014,Coronado,X
+8015,Coyame del Sotol,X
+8016,"Cruz, La",X
+8017,Cuauhtemoc,X
+8018,Cusihuiriachi,X
+8019,Chihuahua,X
+Code,Label,MX
+,,2000
+8020,Chinipas,X
+8021,Delicias,X
+8022,Dr. Belisario Dominguez,X
+8023,Galeana,X
+8024,Santa Isabel,X
+8025,Gomez Farias,X
+8026,Gran Morelos,X
+8027,Guachochi,X
+8028,Guadalupe,X
+8029,Guadalupe y Calvo,X
+8030,Guazapares,X
+8031,Guerrero,X
+8032,Hidalgo del Parral,X
+8033,Huejotitan,X
+8034,Ignacio Zaragoza,X
+8035,Janos,X
+8036,Jimenez,X
+8037,Juarez,X
+8038,Julimes,X
+8039,Lopez,X
+8040,Madera,X
+8041,Maguarichi,X
+8042,Manuel Benavides,X
+8043,Matachi,X
+8044,Matamoros,X
+Code,Label,MX
+,,2000
+8045,Meoqui,X
+8046,Morelos,X
+8047,Moris,X
+8048,Namiquipa,X
+8049,Nonoava,X
+8050,Nuevo Casas Grandes,X
+8051,Ocampo,X
+8052,Ojinaga,X
+8053,Praxedis G. Guerrero,X
+8054,Riva Palacio,X
+8055,Rosales,X
+8056,Rosario,X
+8057,San Francisco de Borja,X
+8058,San Francisco de Conchos,X
+8059,San Francisco del Oro,X
+8060,Santa Barbara,X
+8061,Satevo,X
+8062,Saucillo,X
+8063,Temosachi,X
+8064,"Tule, El",X
+8065,Urique,X
+8066,Uruachi,X
+8067,Valle de Zaragoza,X
+,Distrito Federal,
+9002,Azcapotzalco,X
+Code,Label,MX
+,,2000
+9003,Coyoacan,X
+9004,Cuajimalpa de Morelos,X
+9005,Gustavo A. Madero,X
+9006,Iztacalco,X
+9007,Iztapalapa,X
+9008,"Magdalena Contreras, La",X
+9009,Milpa Alta,X
+9010,Alvaro Obregon,X
+9011,Tlahuac,X
+9012,Tlalpan,X
+9013,Xochimilco,X
+9014,Benito Juarez,X
+9015,Cuauhtemoc,X
+9016,Miguel Hidalgo,X
+9017,Venustiano Carranza,X
+,Durango,
+10001,Canatlan,X
+10002,Canelas,X
+10003,Coneto de Comonfort,X
+10004,Cuencame,X
+10005,Durango,X
+10006,General Simon Bolivar,X
+10007,Gomez Palacio,X
+10008,Guadalupe Victoria,X
+10009,Guanacevi,X
+Code,Label,MX
+,,2000
+10010,Hidalgo,X
+10011,Inde,X
+10012,Lerdo,X
+10013,Mapimi,X
+10014,Mezquital,X
+10015,Nazas,X
+10016,Nombre de Dios,X
+10017,Ocampo,X
+10018,"Oro, El",X
+10019,Otaez,X
+10020,Panuco de Coronado,X
+10021,Penon Blanco,X
+10022,Poanas,X
+10023,Pueblo Nuevo,X
+10024,Rodeo,X
+10025,San Bernardo,X
+10026,San dimas,X
+10027,San Juan de Guadalupe,X
+10028,San Juan del Rio,X
+10029,San Luis del Cordero,X
+10030,San Pedro del Gallo,X
+10031,Santa Clara,X
+10032,Santiago Papasquiaro,X
+10033,Suchil,X
+10034,Tamazula,X
+Code,Label,MX
+,,2000
+10035,Tepehuanes,X
+10036,Tlahualilo,X
+10037,Topia,X
+10038,Vicente Guerrero,X
+10039,Nuevo Ideal,X
+,Guanajuato,
+11001,Abasolo,X
+11002,Acambaro,X
+11003,Allende,X
+11004,Apaseo el Alto,X
+11005,Apaseo el Grande,X
+11006,Atarjea,X
+11007,Celaya,X
+11008,Manuel Doblado,X
+11009,Comonfort,X
+11010,Coroneo,X
+11011,Cortazar,X
+11012,Cueramaro,X
+11013,Doctor Mora,X
+11014,Dolores Hidalgo,X
+11015,Guanajuato,X
+11016,Huanimaro,X
+11017,Irapuato,X
+11018,Jaral del Progreso,X
+11019,Jerecuaro,X
+Code,Label,MX
+,,2000
+11020,Leon,X
+11021,Moroleon,X
+11022,Ocampo,X
+11023,Penjamo,X
+11024,Pueblo Nuevo,X
+11025,Purisima del Rincon,X
+11026,Romita,X
+11027,Salamanca,X
+11028,Salvatierra,X
+11029,San Diego de la Union,X
+11030,San Felipe,X
+11031,San Francisco del Rincon,X
+11032,San Jose Iturbide,X
+11033,San Luis de la Paz,X
+11034,Santa Catarina,X
+11035,Santa Cruz de Juventino Rosas,X
+11036,Santiago Maravatio,X
+11037,Silao,X
+11038,Tarandacuao,X
+11039,Tarimoro,X
+11040,Tierra Blanca,X
+11041,Uriangato,X
+11042,Valle de Santiago,X
+11043,Victoria,X
+11044,Villagran,X
+Code,Label,MX
+,,2000
+11045,Xichu,X
+11046,Yuriria,X
+,Guerrero,
+12001,Acapulco de Juarez,X
+12002,Ahuacuotzingo,X
+12003,Ajuchitlan del Progreso,X
+12004,Alcozauca de Guerrero,X
+12005,Alpoyeca,X
+12006,Apaxtla,X
+12007,Arcelia,X
+12008,Atenango del Rio,X
+12009,Atlamajalcingo del Monte,X
+12010,Atlixtac,X
+12011,Atoyac de Alvarez,X
+12012,Ayutla de los Libres,X
+12013,Azoyu,X
+12014,Benito Juarez,X
+12015,Buenavista de Cuellar,X
+12016,Coahuayutla de Jose Maria Izazaga,X
+12017,Cocula,X
+12018,Copala,X
+12019,Copalillo,X
+12020,Copanatoyac,X
+12021,Coyuca de Benitez,X
+12022,Coyuca de Catalan,X
+Code,Label,MX
+,,2000
+12023,Cuajinicuilapa,X
+12024,Cualac,X
+12025,Cuautepec,X
+12026,Cuetzala del Progreso,X
+12027,Cutzamala de Pinzon,X
+12028,Chilapa de Alvarez,X
+12029,Chilpancingo de los Bravo,X
+12030,Florencio Villarreal,X
+12031,General Canuto A. Neri,X
+12032,General Heliodoro Castillo,X
+12033,Huamuxtitlan,X
+12034,Huitzuco de los Figueroa,X
+12035,Iguala de la Independencia,X
+12036,Igualapa,X
+12037,Ixcateopan de Cuauhtemoc,X
+12038,Jose Azueta,X
+12039,Juan R. Escudero,X
+12040,Leonardo Bravo,X
+12041,Malinaltepec,X
+12042,Martir de Cuilapan,X
+12043,Metlatonoc,X
+12044,Mochitlan,X
+12045,Olinala,X
+12046,Ometepec,X
+12047,Pedro Ascencio Alquisiras,X
+Code,Label,MX
+,,2000
+12048,Petatlan,X
+12049,Pilcaya,X
+12050,Pungarabato,X
+12051,Quechultenango,X
+12052,San Luis Acatlan,X
+12053,San Marcos,X
+12054,San Miguel Totolapan,X
+12055,Taxco de Alarcon,X
+12056,Tecoanapa,X
+12057,Tecpan de Galeana,X
+12058,Teloloapan,X
+12059,Tepecoacuilco de Trujano,X
+12060,Tetipac,X
+12061,Tixtla de Guerrero,X
+12062,Tlacoachistlahuaca,X
+12063,Tlacoapa,X
+12064,Tlalchapa,X
+12065,Tlalixtaquilla de Maldonado,X
+12066,Tlapa de Comonfort,X
+12067,Tlapehuala,X
+12068,"Union de Isidoro Montes de Oca, La",X
+12069,Xalpatlahuac,X
+12070,Xochihuehuetlan,X
+12071,Xochistlahuaca,X
+12072,Zapotitlan Tablas,X
+Code,Label,MX
+,,2000
+12073,Zirandaro,X
+12074,Zitlala,X
+12075,Eduardo Neri,X
+12076,Acatepec,X
+,Hidalgo,
+13001,Acatlan,X
+13002,Acaxochitlan,X
+13003,Actopan,X
+13004,Agua Blanca de Iturbide,X
+13005,Ajacuba,X
+13006,Alfajayucan,X
+13007,Almoloya,X
+13008,Apan,X
+13009,"Arenal, El",X
+13010,Atitalaquia,X
+13011,Atlapexco,X
+13012,Atotonilco el Grande,X
+13013,Atotonilco de Tula,X
+13014,Calnali,X
+13015,Cardonal,X
+13016,Cuautepec de Hinojosa,X
+13017,Chapantongo,X
+13018,Chapulhuacan,X
+13019,Chilcuautla,X
+13020,Eloxochitlan,X
+Code,Label,MX
+,,2000
+13021,Emiliano Zapata,X
+13022,Epazoyucan,X
+13023,Francisco I. Madero,X
+13024,Huasca de Ocampo,X
+13025,Huautla,X
+13026,Huazalingo,X
+13027,Huehuetla,X
+13028,Huejutla de Reyes,X
+13029,Huichapan,X
+13030,Ixmiquilpan,X
+13031,Jacala de Ledezma,X
+13032,Jaltocan,X
+13033,Juarez Hidalgo,X
+13034,Lolotla,X
+13035,Metepec,X
+13036,San Agustin Metzquititlan,X
+13037,Metztitlan,X
+13038,Mineral del Chico,X
+13039,Mineral del Monte,X
+13040,"Mision, La",X
+13041,Mixquiahuala de Juarez,X
+13042,Molango de Escamilla,X
+13043,Nicolas Flores,X
+13044,Nopala de Villagran,X
+13045,Omitlan de Juarez,X
+Code,Label,MX
+,,2000
+13046,San Felipe Orizatlan,X
+13047,Pacula,X
+13048,Pachuca de Soto,X
+13049,Pisaflores,X
+13050,Progreso de Obregon,X
+13051,Mineral de La Reforma,X
+13052,San Agustin Tlaxiaca,X
+13053,San Bartolo Tutotepec,X
+13054,San Salvador,X
+13055,Santiago de Anaya,X
+13056,Santiago Tulantepec de Lugo Guerrero,X
+13057,Singuilucan,X
+13058,Tasquillo,X
+13059,Tecozautla,X
+13060,Tenango de Doria,X
+13061,Tepeapulco,X
+13062,Tepehuacan de Guerrero,X
+13063,Tepeji del Rio de Ocampo,X
+13064,Tepetitlan,X
+13065,Tetepango,X
+13066,Villa de Tezontepec,X
+13067,Tezontepec de Aldama,X
+13068,Tianguistengo,X
+13069,Tizayuca,X
+13070,Tlahuelilpan,X
+Code,Label,MX
+,,2000
+13071,Tlahuiltepa,X
+13072,Tlanalapa,X
+13073,Tlanchinol,X
+13074,Tlaxcoapan,X
+13075,Tolcayuca,X
+13076,Tula de Allende,X
+13077,Tulancingo de Bravo,X
+13078,Xochiatipan,X
+13079,Xochicoatlan,X
+13080,Yahualica,X
+13081,Zacualtipan de Angeles,X
+13082,Zapotlan de Juarez,X
+13083,Zempoala,X
+13084,Zimapan,X
+,Jalisco,
+14001,Acatic,X
+14002,Acatlan de Juarez,X
+14003,Ahualulco de Mercado,X
+14004,Amacueca,X
+14005,Amatitan,X
+14006,Ameca,X
+14007,San Juanito de Escobedo,X
+14008,Arandas,X
+14009,"Arenal, El",X
+14010,Atemajac de Brizuela,X
+Code,Label,MX
+,,2000
+14011,Atengo,X
+14012,Atenguillo,X
+14013,Atotonilco el Alto,X
+14014,Atoyac,X
+14015,Autlan de Navarro,X
+14016,Ayotlan,X
+14017,Ayutla,X
+14018,"Barca, La",X
+14019,Bolanos,X
+14020,Cabo Corrientes,X
+14021,Casimiro Castillo,X
+14022,Cihuatlan,X
+14023,Zapotlan el Grande,X
+14024,Cocula,X
+14025,Colotlan,X
+14026,Concepcion de Buenos Aires,X
+14027,Cuautitlan de Garcia Barragan,X
+14028,Cuautla,X
+14029,Cuquio,X
+14030,Chapala,X
+14031,Chimaltitan,X
+14032,Chiquilistlan,X
+14033,Degollado,X
+14034,Ejutla,X
+14035,Encarnacion de Diaz,X
+Code,Label,MX
+,,2000
+14036,Etzatlan,X
+14037,"Grullo, El",X
+14038,Guachinango,X
+14039,Guadalajara,X
+14040,Hostotipaquillo,X
+14041,Huejucar,X
+14042,Huejuquilla el Alto,X
+14043,"Huerta, La",X
+14044,Ixtlahuacan de los Membrillos,X
+14045,Ixtlahuacan del Rio,X
+14046,Jalostotitlan,X
+14047,Jamay,X
+14048,Jesus Maria,X
+14049,Jilotlan de los Dolores,X
+14050,Jocotepec,X
+14051,Juanacatlan,X
+14052,Juchitlan,X
+14053,Lagos de Moreno,X
+14054,"Limon, El",X
+14055,Magdalena,X
+14056,Santa Maria del Oro,X
+14057,"Manzanilla de la Paz, La",X
+14058,Mascota,X
+14059,Mazamitla,X
+14060,Mexticacan,X
+Code,Label,MX
+,,2000
+14061,Mezquitic,X
+14062,Mixtlan,X
+14063,Ocotlan,X
+14064,Ojuelos de Jalisco,X
+14065,Pihuamo,X
+14066,Poncitlan,X
+14067,Puerto Vallarta,X
+14068,Villa Purificacion,X
+14069,Quitupan,X
+14070,"Salto, El",X
+14071,San Cristobal de la Barranca,X
+14072,San Diego de Alejandria,X
+14073,San Juan de los Lagos,X
+14074,San Julian,X
+14075,San Marcos,X
+14076,San Martin de Bolanos,X
+14077,San Martin de Hidalgo,X
+14078,San Miguel el Alto,X
+14079,Gomez Farias,X
+14080,San Sebastian del Oeste,X
+14081,Santa Maria de los Angeles,X
+14082,Sayula,X
+14083,Tala,X
+14084,Talpa de Allende,X
+14085,Tamazula de Gordiano,X
+Code,Label,MX
+,,2000
+14086,Tapalpa,X
+14087,Tecalitlan,X
+14088,Tecolotlan,X
+14089,Techaluta de Montenegro,X
+14090,Tenamaxtlan,X
+14091,Teocaltiche,X
+14092,Teocuitatlan de Corona,X
+14093,Tepatitlan de Morelos,X
+14094,Tequila,X
+14095,Teuchitlan,X
+14096,Tizapan el Alto,X
+14097,Tlajomulco de Zuniga,X
+14098,Tlaquepaque,X
+14099,Toliman,X
+14100,Tomatlan,X
+14101,Tonala,X
+14102,Tonaya,X
+14103,Tonila,X
+14104,Totatiche,X
+14105,Tototlan,X
+14106,Tuxcacuesco,X
+14107,Tuxcueca,X
+14108,Tuxpan,X
+14109,Union de San Antonio,X
+14110,Union de Tula,X
+Code,Label,MX
+,,2000
+14111,Valle de Guadalupe,X
+14112,Valle de Juarez,X
+14113,San Gabriel,X
+14114,Villa Corona,X
+14115,Villa Guerrero,X
+14116,Villa Hidalgo,X
+14117,Canadas de Obregon,X
+14118,Yahualica de Gonzalez Gallo,X
+14119,Zacoalco de Torres,X
+14120,Zapopan,X
+14121,Zapotiltic,X
+14122,Zapotitlan de Vadillo,X
+14123,Zapotlan del Rey,X
+14124,Zapotlanejo,X
+,Mexico,
+15001,Acambay,X
+15002,Acolman,X
+15003,Aculco,X
+15004,Almoloya de Alquisiras,X
+15005,Almoloya de Juarez,X
+15006,Almoloya del Rio,X
+15007,Amanalco,X
+15008,Amatepec,X
+15009,Amecameca,X
+15010,Apaxco,X
+Code,Label,MX
+,,2000
+15011,Atenco,X
+15012,Atizapan,X
+15013,Atizapan de Zaragoza,X
+15014,Atlacomulco,X
+15015,Atlautla,X
+15016,Axapusco,X
+15017,Ayapango,X
+15018,Calimaya,X
+15019,Capulhuac,X
+15020,Coacalco de Berriozabal,X
+15021,Coatepec Harinas,X
+15022,Cocotitlan,X
+15023,Coyotepec,X
+15024,Cuautitlan,X
+15025,Chalco,X
+15026,Chapa de Mota,X
+15027,Chapultepec,X
+15028,Chiautla,X
+15029,Chicoloapan,X
+15030,Chiconcuac,X
+15031,Chimalhuacan,X
+15032,Donato Guerra,X
+15033,Ecatepec de Morelos,X
+15034,Ecatzingo,X
+15035,Huehuetoca,X
+Code,Label,MX
+,,2000
+15036,Hueypoxtla,X
+15037,Huixquilucan,X
+15038,Isidro Fabela,X
+15039,Ixtapaluca,X
+15040,Ixtapan de la Sal,X
+15041,Ixtapan del Oro,X
+15042,Ixtlahuaca,X
+15043,Xalatlaco,X
+15044,Jaltenco,X
+15045,Jilotepec,X
+15046,Jilotzingo,X
+15047,Jiquipilco,X
+15048,Jocotitlan,X
+15049,Joquicingo,X
+15050,Juchitepec,X
+15051,Lerma,X
+15052,Malinalco,X
+15053,Melchor Ocampo,X
+15054,Metepec,X
+15055,Mexicaltzingo,X
+15056,Morelos,X
+15057,Naucalpan de Juarez,X
+15058,Nezahualcoyotl,X
+15059,Nextlalpan,X
+15060,Nicolas Romero,X
+Code,Label,MX
+,,2000
+15061,Nopaltepec,X
+15062,Ocoyoacac,X
+15063,Ocuilan,X
+15064,"Oro, El",X
+15065,Otumba,X
+15066,Otzoloapan,X
+15067,Otzolotepec,X
+15068,Ozumba,X
+15069,Papalotla,X
+15070,"Paz, La",X
+15071,Polotitlan,X
+15072,Rayon,X
+15073,San Antonio la Isla,X
+15074,San Felipe del Progreso,X
+15075,San Martin de las Piramides,X
+15076,San Mateo Atenco,X
+15077,San Simon de Guerrero,X
+15078,Santo Tomas,X
+15079,Soyaniquilpan de Juarez,X
+15080,Sultepec,X
+15081,Tecamac,X
+15082,Tejupilco,X
+15083,Temamatla,X
+15084,Temascalapa,X
+15085,Temascalcingo,X
+Code,Label,MX
+,,2000
+15086,Temascaltepec,X
+15087,Temoaya,X
+15088,Tenancingo,X
+15089,Tenango del Aire,X
+15090,Tenango del Valle,X
+15091,Teoloyucan,X
+15092,Teotihuacan,X
+15093,Tepetlaoxtoc,X
+15094,Tepetlixpa,X
+15095,Tepotzotlan,X
+15096,Tequixquiac,X
+15097,Texcaltitlan,X
+15098,Texcalyacac,X
+15099,Texcoco,X
+15100,Tezoyuca,X
+15101,Tianguistenco,X
+15102,Timilpan,X
+15103,Tlalmanalco,X
+15104,Tlalnepantla de Baz,X
+15105,Tlatlaya,X
+15106,Toluca,X
+15107,Tonatico,X
+15108,Tultepec,X
+15109,Tultitlan,X
+15110,Valle de Bravo,X
+Code,Label,MX
+,,2000
+15111,Villa de Allende,X
+15112,Villa del Carbon,X
+15113,Villa Guerrero,X
+15114,Villa Victoria,X
+15115,Xonacatlan,X
+15116,Zacazonapan,X
+15117,Zacualpan,X
+15118,Zinacantepec,X
+15119,Zumpahuacan,X
+15120,Zumpango,X
+15121,Cuautitlan Izcalli,X
+15122,Valle de Chalco Solidaridad,X
+,Michoacan,
+16001,Acuitzio,X
+16002,Aguililla,X
+16003,Alvaro Obregon,X
+16004,Angamacutiro,X
+16005,Angangueo,X
+16006,Apatzingan,X
+16007,Aporo,X
+16008,Aquila,X
+16009,Ario,X
+16010,Arteaga,X
+16011,Brisenas,X
+16012,Buenavista,X
+Code,Label,MX
+,,2000
+16013,Caracuaro,X
+16014,Coahuayana,X
+16015,Coalcoman de Vazquez Pallares,X
+16016,Coeneo,X
+16017,Contepec,X
+16018,Copandaro,X
+16019,Cotija,X
+16020,Cuitzeo,X
+16021,Charapan,X
+16022,Charo,X
+16023,Chavinda,X
+16024,Cheran,X
+16025,Chilchota,X
+16026,Chinicuila,X
+16027,Chucandiro,X
+16028,Churintzio,X
+16029,Churumuco,X
+16030,Ecuandureo,X
+16031,Epitacio Huerta,X
+16032,Erongaricuaro,X
+16033,Gabriel Zamora,X
+16034,Hidalgo,X
+16035,"Huacana, La",X
+16036,Huandacareo,X
+16037,Huaniqueo,X
+Code,Label,MX
+,,2000
+16038,Huetamo,X
+16039,Huiramba,X
+16040,Indaparapeo,X
+16041,Irimbo,X
+16042,Ixtlan,X
+16043,Jacona,X
+16044,Jimenez,X
+16045,Jiquilpan,X
+16046,Juarez,X
+16047,Jungapeo,X
+16048,Lagunillas,X
+16049,Madero,X
+16050,Maravatio,X
+16051,Marcos Castellanos,X
+16052,Lazaro Cardenas,X
+16053,Morelia,X
+16054,Morelos,X
+16055,Mugica,X
+16056,Nahuatzen,X
+16057,Nocupetaro,X
+16058,Nuevo Parangaricutiro,X
+16059,Nuevo Urecho,X
+16060,Numaran,X
+16061,Ocampo,X
+16062,Pajacuaran,X
+Code,Label,MX
+,,2000
+16063,Panindicuaro,X
+16064,Paracuaro,X
+16065,Paracho,X
+16066,Patzcuaro,X
+16067,Penjamillo,X
+16068,Periban,X
+16069,"Piedad, La",X
+16070,Purepero,X
+16071,Puruandiro,X
+16072,Querendaro,X
+16073,Quiroga,X
+16074,Cojumatlan de Regules,X
+16075,"Reyes, Los",X
+16076,Sahuayo,X
+16077,San Lucas,X
+16078,Santa Ana Maya,X
+16079,Salvador Escalante,X
+16080,Senguio,X
+16081,Susupuato,X
+16082,Tacambaro,X
+16083,Tancitaro,X
+16084,Tangamandapio,X
+16085,Tangancicuaro,X
+16086,Tanhuato,X
+16087,Taretan,X
+Code,Label,MX
+,,2000
+16088,Tarimbaro,X
+16089,Tepalcatepec,X
+16090,Tingambato,X
+16091,Tinguindin,X
+16092,Tiquicheo de Nicolas Romero,X
+16093,Tlalpujahua,X
+16094,Tlazazalca,X
+16095,Tocumbo,X
+16096,Tumbiscatio,X
+16097,Turicato,X
+16098,Tuxpan,X
+16099,Tuzantla,X
+16100,Tzintzuntzan,X
+16101,Tzitzio,X
+16102,Uruapan,X
+16103,Venustiano Carranza,X
+16104,Villamar,X
+16105,Vista Hermosa,X
+16106,Yurecuaro,X
+16107,Zacapu,X
+16108,Zamora,X
+16109,Zinaparo,X
+16110,Zinapecuaro,X
+16111,Ziracuaretiro,X
+16112,Zitacuaro,X
+Code,Label,MX
+,,2000
+16113,Jose Sixto Verduzco,X
+,Morelos,
+17001,Amacuzac,X
+17002,Atlatlahucan,X
+17003,Axochiapan,X
+17004,Ayala,X
+17005,Coatlan del Rio,X
+17006,Cuautla,X
+17007,Cuernavaca,X
+17008,Emiliano Zapata,X
+17009,Huitzilac,X
+17010,Jantetelco,X
+17011,Jiutepec,X
+17012,Jojutla,X
+17013,Jonacatepec,X
+17014,Mazatepec,X
+17015,Miacatlan,X
+17016,Ocuituco,X
+17017,Puente de Ixtla,X
+17018,Temixco,X
+17019,Tepalcingo,X
+17020,Tepoztlan,X
+17021,Tetecala,X
+17022,Tetela del Volcan,X
+17023,Tlalnepantla,X
+Code,Label,MX
+,,2000
+17024,Tlaltizapan,X
+17025,Tlaquiltenango,X
+17026,Tlayacapan,X
+17027,Totolapan,X
+17028,Xochitepec,X
+17029,Yautepec,X
+17030,Yecapixtla,X
+17031,Zacatepec de Hidalgo,X
+17032,Zacualpan de Amilpas,X
+17033,Temoac,X
+,Nayarit,
+18001,Acaponeta,X
+18002,Ahuacatlan,X
+18003,Amatlan de Canas,X
+18004,Compostela,X
+18005,Huajicori,X
+18006,Ixtlan del Rio,X
+18007,Jala,X
+18008,Xalisco,X
+18009,Del Nayar,X
+18010,Rosamorada,X
+18011,Ruiz,X
+18012,San Blas,X
+18013,San Pedro Lagunillas,X
+18014,Santa Maria del Oro,X
+Code,Label,MX
+,,2000
+18015,Santiago Ixcuintla,X
+18016,Tecuala,X
+18017,Tepic,X
+18018,Tuxpan,X
+18019,"Yesca, La",X
+18020,Bahia de Banderas,X
+,Nuevo Leon,
+19001,Abasolo,X
+19002,Agualeguas,X
+19003,"Aldamas, Los",X
+19004,Allende,X
+19005,Anahuac,X
+19006,Apodaca,X
+19007,Aramberri,X
+19008,Bustamante,X
+19009,Cadereyta Jimenez,X
+19010,Carmen,X
+19011,Cerralvo,X
+19012,Cienega de Flores,X
+19013,China,X
+19014,Doctor Arroyo,X
+19015,Doctor Coss,X
+19016,Doctor Gonzalez,X
+19017,Galeana,X
+19018,Garcia,X
+Code,Label,MX
+,,2000
+19019,San Pedro Garza Garcia,X
+19020,General Bravo,X
+19021,General Escobedo,X
+19022,General Teran,X
+19023,General Trevino,X
+19024,General Zaragoza,X
+19025,General Zuazua,X
+19026,Guadalupe,X
+19027,"Herreras, Los",X
+19028,Higueras,X
+19029,Hualahuises,X
+19030,Iturbide,X
+19031,Juarez,X
+19032,Lampazos de Naranjo,X
+19033,Linares,X
+19034,Marin,X
+19035,Melchor Ocampo,X
+19036,Mier y Noriega,X
+19037,Mina,X
+19038,Montemorelos,X
+19039,Monterrey,X
+19040,Paras,X
+19041,Pesqueria,X
+19042,"Ramones, Los",X
+19043,Rayones,X
+Code,Label,MX
+,,2000
+19044,Sabinas Hidalgo,X
+19045,Salinas Victoria,X
+19046,San Nicolas de los Garza,X
+19047,Hidalgo,X
+19048,Santa Catarina,X
+19049,Santiago,X
+19050,Vallecillo,X
+19051,Villaldama,X
+,Oaxaca,
+20001,Abejones,X
+20002,Acatlan de Perez Figueroa,X
+20003,Asuncion Cacalotepec,X
+20004,Asuncion Cuyotepeji,X
+20005,Asuncion Ixtaltepec,X
+20006,Asuncion Nochixtlan,X
+20007,Asuncion Ocotlan,X
+20008,Asuncion Tlacolulita,X
+20009,Ayotzintepec,X
+20010,"Barrio de la Soledad, El",X
+20011,Calihuala,X
+20012,Candelaria Loxicha,X
+20013,Cienega de Zimatlan,X
+20014,Ciudad Ixtepec,X
+20015,Coatecas Altas,X
+20016,Coicoyan de las Flores,X
+Code,Label,MX
+,,2000
+20017,"Compania, La",X
+20018,Concepcion Buenavista,X
+20019,Concepcion Papalo,X
+20020,Constancia del Rosario,X
+20021,Cosolapa,X
+20022,Cosoltepec,X
+20023,Cuilapam de Guerrero,X
+20024,Cuyamecalco Villa de Zaragoza,X
+20025,Chahuites,X
+20026,Chalcatongo de Hidalgo,X
+20027,Chiquihuitlan de Benito Juarez,X
+20028,Heroica Ciudad de Ejutla de Crespo,X
+20029,Eloxochitlan de Flores Magon,X
+20030,"Espinal, El",X
+20031,Tamazulapam del Espiritu Santo,X
+20032,Fresnillo de Trujano,X
+20033,Guadalupe Etla,X
+20034,Guadalupe de Ramirez,X
+20035,Guelatao de Juarez,X
+20036,Guevea de Humboldt,X
+20037,Mesones Hidalgo,X
+20038,Villa Hidalgo,X
+20039,Heroica Ciudad de Huajuapan de Leon,X
+20040,Huautepec,X
+20041,Huautla de Jimenez,X
+Code,Label,MX
+,,2000
+20042,Ixtlan de Juarez,X
+20043,Juchitan de Zaragoza,X
+20044,Loma Bonita,X
+20045,Magdalena Apasco,X
+20046,Magdalena Jaltepec,X
+20047,Santa Magdalena Jicotlan,X
+20048,Magdalena Mixtepec,X
+20049,Magdalena Ocotlan,X
+20050,Magdalena Penasco,X
+20051,Magdalena Teitipac,X
+20052,Magdalena Tequisistlan,X
+20053,Magdalena Tlacotepec,X
+20054,Magdalena Zahuatlan,X
+20055,Mariscala de Juarez,X
+20056,Martires de Tacubaya,X
+20057,Matias Romero,X
+20058,Mazatlan Villa de Flores,X
+20059,Miahuatlan de Porfirio Diaz,X
+20060,Mixistlan de la Reforma,X
+20061,Monjas,X
+20062,Natividad,X
+20063,Nazareno Etla,X
+20064,Nejapa de Madero,X
+20065,Ixpantepec Nieves,X
+20066,Santiago Niltepec,X
+Code,Label,MX
+,,2000
+20067,Oaxaca de Juarez,X
+20068,Ocotlan de Morelos,X
+20069,"Pe, La",X
+20070,Pinotepa de Don Luis,X
+20071,Pluma Hidalgo,X
+20072,San Jose del Progreso,X
+20073,Putla Villa de Guerrero,X
+20074,Santa Catarina Quioquitani,X
+20075,Reforma de Pineda,X
+20076,"Reforma, La",X
+20077,Reyes Etla,X
+20078,Rojas de Cuauhtemoc,X
+20079,Salina Cruz,X
+20080,San Agustin Amatengo,X
+20081,San Agustin Atenango,X
+20082,San Agustin Chayuco,X
+20083,San Agustin de las Juntas,X
+20084,San Agustin Etla,X
+20085,San Agustin Loxicha,X
+20086,San Agustin Tlacotepec,X
+20087,San Agustin Yatareni,X
+20088,San Andres Cabecera Nueva,X
+20089,San Andres Dinicuiti,X
+20090,San Andres Huaxpaltepec,X
+20091,San Andres Huayapam,X
+Code,Label,MX
+,,2000
+20092,San Andres Ixtlahuaca,X
+20093,San Andres Lagunas,X
+20094,San Andres Nuxino,X
+20095,San Andres Paxtlan,X
+20096,San Andres Sinaxtla,X
+20097,San Andres Solaga,X
+20098,San Andres Teotilalpam,X
+20099,San Andres Tepetlapa,X
+20100,San Andres Yaa,X
+20101,San Andres Zabache,X
+20102,San Andres Zautla,X
+20103,San Antonino Castillo Velasco,X
+20104,San Antonino el Alto,X
+20105,San Antonino Monte Verde,X
+20106,San Antonio Acutla,X
+20107,San Antonio de la Cal,X
+20108,San Antonio Huitepec,X
+20109,San Antonio Nanahuatipam,X
+20110,San Antonio Sinicahua,X
+20111,San Antonio Tepetlapa,X
+20112,San Baltazar Chichicapam,X
+20113,San Baltazar Loxicha,X
+20114,San Baltazar Yatzachi el Bajo,X
+20115,San Bartolo Coyotepec,X
+20116,San Bartolome Ayautla,X
+Code,Label,MX
+,,2000
+20117,San Bartolome Loxicha,X
+20118,San Bartolome Quialana,X
+20119,San Bartolome Yucuane,X
+20120,San Bartolome Zoogocho,X
+20121,San Bartolo Soyaltepec,X
+20122,San Bartolo Yautepec,X
+20123,San Bernardo Mixtepec,X
+20124,San Blas Atempa,X
+20125,San Carlos Yautepec,X
+20126,San Cristobal Amatlan,X
+20127,San Cristobal Amoltepec,X
+20128,San Cristobal Lachirioag,X
+20129,San Cristobal Suchixtlahuaca,X
+20130,San Dionisio del Mar,X
+20131,San Dionisio Ocotepec,X
+20132,San Dionisio Ocotlan,X
+20133,San Esteban Atatlahuca,X
+20134,San Felipe Jalapa de Diaz,X
+20135,San Felipe Tejalapam,X
+20136,San Felipe Usila,X
+20137,San Francisco Cahuacua,X
+20138,San Francisco Cajonos,X
+20139,San Francisco Chapulapa,X
+20140,San Francisco Chindua,X
+20141,San Francisco del Mar,X
+Code,Label,MX
+,,2000
+20142,San Francisco Huehuetlan,X
+20143,San Francisco Ixhuatan,X
+20144,San Francisco Jaltepetongo,X
+20145,San Francisco Lachigolo,X
+20146,San Francisco Logueche,X
+20147,San Francisco Nuxano,X
+20148,San Francisco Ozolotepec,X
+20149,San Francisco Sola,X
+20150,San Francisco Telixtlahuaca,X
+20151,San Francisco Teopan,X
+20152,San Francisco Tlapancingo,X
+20153,San Gabriel Mixtepec,X
+20154,San Ildefonso Amatlan,X
+20155,San Ildefonso Sola,X
+20156,San Ildefonso Villa Alta,X
+20157,San Jacinto Amilpas,X
+20158,San Jacinto Tlacotepec,X
+20159,San Jeronimo Coatlan,X
+20160,San Jeronimo Silacayoapilla,X
+20161,San Jeronimo Sosola,X
+20162,San Jeronimo Taviche,X
+20163,San Jeronimo Tecoatl,X
+20164,San Jorge Nuchita,X
+20165,San Jose Ayuquila,X
+20166,San Jose Chiltepec,X
+Code,Label,MX
+,,2000
+20167,San Jose del Penasco,X
+20168,San Jose Estancia Grande,X
+20169,San Jose Independencia,X
+20170,San Jose Lachiguiri,X
+20171,San Jose Tenango,X
+20172,San Juan Achiutla,X
+20173,San Juan Atepec,X
+20174,Animas Trujano,X
+20175,San Juan Bautista Atatlahuca,X
+20176,San Juan Bautista Coixtlahuaca,X
+20177,San Juan Bautista Cuicatlan,X
+20178,San Juan Bautista Guelache,X
+20179,San Juan Bautista Jayacatlan,X
+20180,San Juan Bautista lo de Soto,X
+20181,San Juan Bautista Suchitepec,X
+20182,San Juan Bautista Tlacoatzintepec,X
+20183,San Juan Bautista Tlachichilco,X
+20184,San Juan Bautista Tuxtepec,X
+20185,San Juan Cacahuatepec,X
+20186,San Juan Cieneguilla,X
+20187,San Juan Coatzospam,X
+20188,San Juan Colorado,X
+20189,San Juan Comaltepec,X
+20190,San Juan Cotzocon,X
+20191,San Juan Chicomezuchil,X
+Code,Label,MX
+,,2000
+20192,San Juan Chilateca,X
+20193,San Juan del Estado,X
+20194,San Juan del Rio,X
+20195,San Juan Diuxi,X
+20196,San Juan Evangelista Analco,X
+20197,San Juan Guelavia,X
+20198,San Juan Guichicovi,X
+20199,San Juan Ihualtepec,X
+20200,San Juan Juquila Mixes,X
+20201,San Juan Juquila Vijanos,X
+20202,San Juan Lachao,X
+20203,San Juan Lachigalla,X
+20204,San Juan Lajarcia,X
+20205,San Juan Lalana,X
+20206,San Juan de los Cues,X
+20207,San Juan Mazatlan,X
+20208,San Juan Mixtepec - distr. 08,X
+20209,San Juan Mixtepec - distr. 26,X
+20210,San Juan Numi,X
+20211,San Juan Ozolotepec,X
+20212,San Juan Petlapa,X
+20213,San Juan Quiahije,X
+20214,San Juan Quiotepec,X
+20215,San Juan Sayultepec,X
+20216,San Juan Tabaa,X
+Code,Label,MX
+,,2000
+20217,San Juan Tamazola,X
+20218,San Juan Teita,X
+20219,San Juan Teitipac,X
+20220,San Juan Tepeuxila,X
+20221,San Juan Teposcolula,X
+20222,San Juan Yaee,X
+20223,San Juan Yatzona,X
+20224,San Juan Yucuita,X
+20225,San Lorenzo,X
+20226,San Lorenzo Albarradas,X
+20227,San Lorenzo Cacaotepec,X
+20228,San Lorenzo Cuaunecuiltitla,X
+20229,San Lorenzo Texmelucan,X
+20230,San Lorenzo Victoria,X
+20231,San Lucas Camotlan,X
+20232,San Lucas Ojitlan,X
+20233,San Lucas Quiavini,X
+20234,San Lucas Zoquiapam,X
+20235,San Luis Amatlan,X
+20236,San Marcial Ozolotepec,X
+20237,San Marcos Arteaga,X
+20238,San Martin de los Cansecos,X
+20239,San Martin Huamelulpam,X
+20240,San Martin Itunyoso,X
+20241,San Martin Lachila,X
+Code,Label,MX
+,,2000
+20242,San Martin Peras,X
+20243,San Martin Tilcajete,X
+20244,San Martin Toxpalan,X
+20245,San Martin Zacatepec,X
+20246,San Mateo Cajonos,X
+20247,Capulalpam de Mendez,X
+20248,San Mateo del Mar,X
+20249,San Mateo Yoloxochitlan,X
+20250,San Mateo Etlatongo,X
+20251,San Mateo Nejapam,X
+20252,San Mateo Penasco,X
+20253,San Mateo Pinas,X
+20254,San Mateo Rio Hondo,X
+20255,San Mateo Sindihui,X
+20256,San Mateo Tlapiltepec,X
+20257,San Melchor Betaza,X
+20258,San Miguel Achiutla,X
+20259,San Miguel Ahuehuetitlan,X
+20260,San Miguel Aloapam,X
+20261,San Miguel Amatitlan,X
+20262,San Miguel Amatlan,X
+20263,San Miguel Coatlan,X
+20264,San Miguel Chicahua,X
+20265,San Miguel Chimalapa,X
+20266,San Miguel del Puerto,X
+Code,Label,MX
+,,2000
+20267,San Miguel del Rio,X
+20268,San Miguel Ejutla,X
+20269,San Miguel el Grande,X
+20270,San Miguel Huautla,X
+20271,San Miguel Mixtepec,X
+20272,San Miguel Panixtlahuaca,X
+20273,San Miguel Peras,X
+20274,San Miguel Piedras,X
+20275,San Miguel Quetzaltepec,X
+20276,San Miguel Santa Flor,X
+20277,Villa Sola de Vega,X
+20278,San Miguel Soyaltepec,X
+20279,San Miguel Suchixtepec,X
+20280,Villa Talea de Castro,X
+20281,San Miguel Tecomatlan,X
+20282,San Miguel Tenango,X
+20283,San Miguel Tequixtepec,X
+20284,San Miguel Tilquiapam,X
+20285,San Miguel Tlacamama,X
+20286,San Miguel Tlacotepec,X
+20287,San Miguel Tulancingo,X
+20288,San Miguel Yotao,X
+20289,San Nicolas,X
+20290,San Nicolas Hidalgo,X
+20291,San Pablo Coatlan,X
+Code,Label,MX
+,,2000
+20292,San Pablo Cuatro Venados,X
+20293,San Pablo Etla,X
+20294,San Pablo Huitzo,X
+20295,San Pablo Huixtepec,X
+20296,San Pablo Macuiltianguis,X
+20297,San Pablo Tijaltepec,X
+20298,San Pablo Villa de Mitla,X
+20299,San Pablo Yaganiza,X
+20300,San Pedro Amuzgos,X
+20301,San Pedro Apostol,X
+20302,San Pedro Atoyac,X
+20303,San Pedro Cajonos,X
+20304,San Pedro Coxcaltepec Cantaros,X
+20305,San Pedro Comitancillo,X
+20306,San Pedro el Alto,X
+20307,San Pedro Huamelula,X
+20308,San Pedro Huilotepec,X
+20309,San Pedro Ixcatlan,X
+20310,San Pedro Ixtlahuaca,X
+20311,San Pedro Jaltepetongo,X
+20312,San Pedro Jicayan,X
+20313,San Pedro Jocotipac,X
+20314,San Pedro Juchatengo,X
+20315,San Pedro Martir,X
+20316,San Pedro Martir Quiechapa,X
+Code,Label,MX
+,,2000
+20317,San Pedro Martir Yucuxaco,X
+20318,San Pedro Mixtepec - distr. 22,X
+20319,San Pedro Mixtepec - distr. 26,X
+20320,San Pedro Molinos,X
+20321,San Pedro Nopala,X
+20322,San Pedro Ocopetatillo,X
+20323,San Pedro Ocotepec,X
+20324,San Pedro Pochutla,X
+20325,San Pedro Quiatoni,X
+20326,San Pedro Sochiapam,X
+20327,San Pedro Tapanatepec,X
+20328,San Pedro Taviche,X
+20329,San Pedro Teozacoalco,X
+20330,San Pedro Teutila,X
+20331,San Pedro Tidaa,X
+20332,San Pedro Topiltepec,X
+20333,San Pedro Totolapa,X
+20334,Villa de Tututepec de Melchor Ocampo,X
+20335,San Pedro Yaneri,X
+20336,San Pedro Yolox,X
+20337,San Pedro y San Pablo Ayutla,X
+20338,Villa de Etla,X
+20339,San Pedro y San Pablo Teposcolula,X
+20340,San Pedro y San Pablo Tequixtepec,X
+20341,San Pedro Yucunama,X
+Code,Label,MX
+,,2000
+20342,San Raymundo Jalpan,X
+20343,San Sebastian Abasolo,X
+20344,San Sebastian Coatlan,X
+20345,San Sebastian Ixcapa,X
+20346,San Sebastian Nicananduta,X
+20347,San Sebastian Rio Hondo,X
+20348,San Sebastian Tecomaxtlahuaca,X
+20349,San Sebastian Teitipac,X
+20350,San Sebastian Tutla,X
+20351,San Simon Almolongas,X
+20352,San Simon Zahuatlan,X
+20353,Santa Ana,X
+20354,Santa Ana Ateixtlahuaca,X
+20355,Santa Ana Cuauhtemoc,X
+20356,Santa Ana del Valle,X
+20357,Santa Ana Tavela,X
+20358,Santa Ana Tlapacoyan,X
+20359,Santa Ana Yareni,X
+20360,Santa Ana Zegache,X
+20361,Santa Catalina Quieri,X
+20362,Santa Catarina Cuixtla,X
+20363,Santa Catarina Ixtepeji,X
+20364,Santa Catarina Juquila,X
+20365,Santa Catarina Lachatao,X
+20366,Santa Catarina Loxicha,X
+Code,Label,MX
+,,2000
+20367,Santa Catarina Mechoacan,X
+20368,Santa Catarina Minas,X
+20369,Santa Catarina Quiane,X
+20370,Santa Catarina Tayata,X
+20371,Santa Catarina Ticua,X
+20372,Santa Catarina Yosonotu,X
+20373,Santa Catarina Zapoquila,X
+20374,Santa Cruz Acatepec,X
+20375,Santa Cruz Amilpas,X
+20376,Santa Cruz de Bravo,X
+20377,Santa Cruz Itundujia,X
+20378,Santa Cruz Mixtepec,X
+20379,Santa Cruz Nundaco,X
+20380,Santa Cruz Papalutla,X
+20381,Santa Cruz Tacache de Mina,X
+20382,Santa Cruz Tacahua,X
+20383,Santa Cruz Tayata,X
+20384,Santa Cruz Xitla,X
+20385,Santa Cruz Xoxocotlan,X
+20386,Santa Cruz Zenzontepec,X
+20387,Santa Gertrudis,X
+20388,Santa Ines del Monte,X
+20389,Santa Ines Yatzeche,X
+20390,Santa Lucia del Camino,X
+20391,Santa Lucia Miahuatlan,X
+Code,Label,MX
+,,2000
+20392,Santa Lucia Monteverde,X
+20393,Santa Lucia Ocotlan,X
+20394,Santa Maria Alotepec,X
+20395,Santa Maria Apazco,X
+20396,Santa Maria la Asuncion,X
+20397,Heroica Ciudad de Tlaxiaco,X
+20398,Ayoquezco de Aldama,X
+20399,Santa Maria Atzompa,X
+20400,Santa Maria Camotlan,X
+20401,Santa Maria Colotepec,X
+20402,Santa Maria Cortijo,X
+20403,Santa Maria Coyotepec,X
+20404,Santa Maria Chachoapam,X
+20405,Villa de Chilapa de Diaz,X
+20406,Santa Maria Chilchotla,X
+20407,Santa Maria Chimalapa,X
+20408,Santa Maria del Rosario,X
+20409,Santa Maria del Tule,X
+20410,Santa Maria Ecatepec,X
+20411,Santa Maria Guelace,X
+20412,Santa Maria Guienagati,X
+20413,Santa Maria Huatulco,X
+20414,Santa Maria Huazolotitlan,X
+20415,Santa Maria Ipalapa,X
+20416,Santa Maria Ixcatlan,X
+Code,Label,MX
+,,2000
+20417,Santa Maria Jacatepec,X
+20418,Santa Maria Jalapa del Marques,X
+20419,Santa Maria Jaltianguis,X
+20420,Santa Maria Lachixio,X
+20421,Santa Maria Mixtequilla,X
+20422,Santa Maria Nativitas,X
+20423,Santa Maria Nduayaco,X
+20424,Santa Maria Ozolotepec,X
+20425,Santa Maria Papalo,X
+20426,Santa Maria Penoles,X
+20427,Santa Maria Petapa,X
+20428,Santa Maria Quiegolani,X
+20429,Santa Maria Sola,X
+20430,Santa Maria Tataltepec,X
+20431,Santa Maria Tecomavaca,X
+20432,Santa Maria Temaxcalapa,X
+20433,Santa Maria Temaxcaltepec,X
+20434,Santa Maria Teopoxco,X
+20435,Santa Maria Tepantlali,X
+20436,Santa Maria Texcatitlan,X
+20437,Santa Maria Tlahuitoltepec,X
+20438,Santa Maria Tlalixtac,X
+20439,Santa Maria Tonameca,X
+20440,Santa Maria Totolapilla,X
+20441,Santa Maria Xadani,X
+Code,Label,MX
+,,2000
+20442,Santa Maria Yalina,X
+20443,Santa Maria Yavesia,X
+20444,Santa Maria Yolotepec,X
+20445,Santa Maria Yosoyua,X
+20446,Santa Maria Yucuhiti,X
+20447,Santa Maria Zacatepec,X
+20448,Santa Maria Zaniza,X
+20449,Santa Maria Zoquitlan,X
+20450,Santiago Amoltepec,X
+20451,Santiago Apoala,X
+20452,Santiago Apostol,X
+20453,Santiago Astata,X
+20454,Santiago Atitlan,X
+20455,Santiago Ayuquililla,X
+20456,Santiago Cacaloxtepec,X
+20457,Santiago Camotlan,X
+20458,Santiago Comaltepec,X
+20459,Santiago Chazumba,X
+20460,Santiago Choapam,X
+20461,Santiago del Rio,X
+20462,Santiago Huajolotitlan,X
+20463,Santiago Huauclilla,X
+20464,Santiago Ihuitlan Plumas,X
+20465,Santiago Ixcuintepec,X
+20466,Santiago Ixtayutla,X
+Code,Label,MX
+,,2000
+20467,Santiago Jamiltepec,X
+20468,Santiago Jocotepec,X
+20469,Santiago Juxtlahuaca,X
+20470,Santiago Lachiguiri,X
+20471,Santiago Lalopa,X
+20472,Santiago Laollaga,X
+20473,Santiago Laxopa,X
+20474,Santiago Llano Grande,X
+20475,Santiago Matatlan,X
+20476,Santiago Miltepec,X
+20477,Santiago Minas,X
+20478,Santiago Nacaltepec,X
+20479,Santiago Nejapilla,X
+20480,Santiago Nundiche,X
+20481,Santiago Nuyoo,X
+20482,Santiago Pinotepa Nacional,X
+20483,Santiago Suchilquitongo,X
+20484,Santiago Tamazola,X
+20485,Santiago Tapextla,X
+20486,Villa Tejupam de la Union,X
+20487,Santiago Tenango,X
+20488,Santiago Tepetlapa,X
+20489,Santiago Tetepec,X
+20490,Santiago Texcalcingo,X
+20491,Santiago Textitlan,X
+Code,Label,MX
+,,2000
+20492,Santiago Tilantongo,X
+20493,Santiago Tillo,X
+20494,Santiago Tlazoyaltepec,X
+20495,Santiago Xanica,X
+20496,Santiago Xiacui,X
+20497,Santiago Yaitepec,X
+20498,Santiago Yaveo,X
+20499,Santiago Yolomecatl,X
+20500,Santiago Yosondua,X
+20501,Santiago Yucuyachi,X
+20502,Santiago Zacatepec,X
+20503,Santiago Zoochila,X
+20504,Nuevo Zoquiapam,X
+20505,Santo Domingo Ingenio,X
+20506,Santo Domingo Albarradas,X
+20507,Santo Domingo Armenta,X
+20508,Santo Domingo Chihuitan,X
+20509,Santo Domingo de Morelos,X
+20510,Santo Domingo Ixcatlan,X
+20511,Santo Domingo Nuxaa,X
+20512,Santo Domingo Ozolotepec,X
+20513,Santo Domingo Petapa,X
+20514,Santo Domingo Roayaga,X
+20515,Santo Domingo Tehuantepec,X
+20516,Santo Domingo Teojomulco,X
+Code,Label,MX
+,,2000
+20517,Santo Domingo Tepuxtepec,X
+20518,Santo Domingo Tlatayapam,X
+20519,Santo Domingo Tomaltepec,X
+20520,Santo Domingo Tonala,X
+20521,Santo Domingo Tonaltepec,X
+20522,Santo Domingo Xagacia,X
+20523,Santo Domingo Yanhuitlan,X
+20524,Santo Domingo Yodohino,X
+20525,Santo Domingo Zanatepec,X
+20526,Santos Reyes Nopala,X
+20527,Santos Reyes papalo,X
+20528,Santos Reyes Tepejillo,X
+20529,Santos Reyes Yucuna,X
+20530,Santo Tomas Jalieza,X
+20531,Santo Tomas Mazaltepec,X
+20532,Santo Tomas Ocotepec,X
+20533,Santo Tomas Tamazulapan,X
+20534,San Vicente Coatlan,X
+20535,San Vicente Lachixio,X
+20536,San Vicente Nunu,X
+20537,Silacayoapam,X
+20538,Sitio de Xitlapehua,X
+20539,Soledad Etla,X
+20540,Villa de Tamazulapam del Progreso,X
+20541,Tanetze de Zaragoza,X
+Code,Label,MX
+,,2000
+20542,Taniche,X
+20543,Tataltepec de Valdes,X
+20544,Teococuilco de Marcos Perez,X
+20545,Teotitlan de Flores Magon,X
+20546,Teotitlan del Valle,X
+20547,Teotongo,X
+20548,Tepelmeme Villa de Morelos,X
+20549,Tezoatlan de Segura y Luna,X
+20550,San Jeronimo Tlacochahuaya,X
+20551,Tlacolula de Matamoros,X
+20552,Tlacotepec Plumas,X
+20553,Tlalixtac de Cabrera,X
+20554,Totontepec Villa de Morelos,X
+20555,Trinidad Zaachila,X
+20556,"Trinidad Vista Hermosa, La",X
+20557,Union Hidalgo,X
+20558,Valerio Trujano,X
+20559,San Juan Bautista Valle Nacional,X
+20560,Villa Diaz Ordaz,X
+20561,Yaxe,X
+20562,Magdalena Yodocono de Porfirio Diaz,X
+20563,Yogana,X
+20564,Yutanduchi de Guerrero,X
+20565,Villa de Zaachila,X
+20566,Zapotitlan del Rio,X
+Code,Label,MX
+,,2000
+20567,Zapotitlan Lagunas,X
+20568,Zapotitlan Palmas,X
+20569,Santa ines de Zaragoza,X
+20570,Zimatlan de Alvarez,X
+,Puebla,
+21001,Acajete,X
+21002,Acateno,X
+21003,Acatlan,X
+21004,Acatzingo,X
+21005,Acteopan,X
+21006,Ahuacatlan,X
+21007,Ahuatlan,X
+21008,Ahuazotepec,X
+21009,Ahuehuetitla,X
+21010,Ajalpan,X
+21011,Albino Zertuche,X
+21012,Aljojuca,X
+21013,Altepexi,X
+21014,Amixtlan,X
+21015,Amozoc,X
+21016,Aquixtla,X
+21017,Atempan,X
+21018,Atexcal,X
+21019,Atlixco,X
+21020,Atoyatempan,X
+Code,Label,MX
+,,2000
+21021,Atzala,X
+21022,Atzitzihuacan,X
+21023,Atzitzintla,X
+21024,Axutla,X
+21025,Ayotoxco de Guerrero,X
+21026,Calpan,X
+21027,Caltepec,X
+21028,Camocuautla,X
+21029,Caxhuacan,X
+21030,Coatepec,X
+21031,Coatzingo,X
+21032,Cohetzala,X
+21033,Cohuecan,X
+21034,Coronango,X
+21035,Coxcatlan,X
+21036,Coyomeapan,X
+21037,Coyotepec,X
+21038,Cuapiaxtla de Madero,X
+21039,Cuautempan,X
+21040,Cuautinchan,X
+21041,Cuautlancingo,X
+21042,Cuayuca de Andrade,X
+21043,Cuetzalan del Progreso,X
+21044,Cuyoaco,X
+21045,Chalchicomula de Sesma,X
+Code,Label,MX
+,,2000
+21046,Chapulco,X
+21047,Chiautla,X
+21048,Chiautzingo,X
+21049,Chiconcuautla,X
+21050,Chichiquila,X
+21051,Chietla,X
+21052,Chigmecatitlan,X
+21053,Chignahuapan,X
+21054,Chignautla,X
+21055,Chila,X
+21056,Chila de la Sal,X
+21057,Honey,X
+21058,Chilchotla,X
+21059,Chinantla,X
+21060,Domingo Arenas,X
+21061,Eloxochitlan,X
+21062,Epatlan,X
+21063,Esperanza,X
+21064,Francisco Z. Mena,X
+21065,General Felipe Angeles,X
+21066,Guadalupe,X
+21067,Guadalupe Victoria,X
+21068,Hermenegildo Galeana,X
+21069,Huaquechula,X
+21070,Huatlatlauca,X
+Code,Label,MX
+,,2000
+21071,Huauchinango,X
+21072,Huehuetla,X
+21073,Huehuetlan el Chico,X
+21074,Huejotzingo,X
+21075,Hueyapan,X
+21076,Hueytamalco,X
+21077,Hueytlalpan,X
+21078,Huitzilan de Serdan,X
+21079,Huitziltepec,X
+21080,Atlequizayan,X
+21081,Ixcamilpa de Guerrero,X
+21082,Ixcaquixtla,X
+21083,Ixtacamaxtitlan,X
+21084,Ixtepec,X
+21085,Izucar de Matamoros,X
+21086,Jalpan,X
+21087,Jolalpan,X
+21088,Jonotla,X
+21089,Jopala,X
+21090,Juan C. Bonilla,X
+21091,Juan Galindo,X
+21092,Juan N. Mendez,X
+21093,Lafragua,X
+21094,Libres,X
+21095,"Magdalena Tlatlauquitepec, La",X
+Code,Label,MX
+,,2000
+21096,Mazapiltepec de Juarez,X
+21097,Mixtla,X
+21098,Molcaxac,X
+21099,Canada Morelos,X
+21100,Naupan,X
+21101,Nauzontla,X
+21102,Nealtican,X
+21103,Nicolas Bravo,X
+21104,Nopalucan,X
+21105,Ocotepec,X
+21106,Ocoyucan,X
+21107,Olintla,X
+21108,Oriental,X
+21109,Pahuatlan,X
+21110,Palmar de Bravo,X
+21111,Pantepec,X
+21112,Petlalcingo,X
+21113,Piaxtla,X
+21114,Puebla,X
+21115,Quecholac,X
+21116,Quimixtlan,X
+21117,Rafael Lara Grajales,X
+21118,"Reyes de Juarez, Los",X
+21119,San Andres Cholula,X
+21120,San Antonio Canada,X
+Code,Label,MX
+,,2000
+21121,San Diego la Mesa Tochimiltzingo,X
+21122,San Felipe Teotlalcingo,X
+21123,San Felipe Tepatlan,X
+21124,San Gabriel Chilac,X
+21125,San Gregorio Atzompa,X
+21126,San Jeronimo Tecuanipan,X
+21127,San Jeronimo Xayacatlan,X
+21128,San Jose Chiapa,X
+21129,San Jose Miahuatlan,X
+21130,San Juan Atenco,X
+21131,San Juan Atzompa,X
+21132,San Martin Texmelucan,X
+21133,San Martin Totoltepec,X
+21134,San Matias Tlalancaleca,X
+21135,San Miguel Ixitlan,X
+21136,San Miguel Xoxtla,X
+21137,San Nicolas Buenos Aires,X
+21138,San Nicolas de los Ranchos,X
+21139,San Pablo Anicano,X
+21140,San Pedro Cholula,X
+21141,San Pedro Yeloixtlahuaca,X
+21142,San Salvador el Seco,X
+21143,San Salvador el Verde,X
+21144,San Salvador Huixcolotla,X
+21145,San Sebastian Tlacotepec,X
+Code,Label,MX
+,,2000
+21146,Santa Catarina Tlaltempan,X
+21147,Santa Ines Ahuatempan,X
+21148,Santa Isabel Cholula,X
+21149,Santiago Miahuatlan,X
+21150,Huehuetlan el Grande,X
+21151,Santo Tomas Hueyotlipan,X
+21152,Soltepec,X
+21153,Tecali de Herrera,X
+21154,Tecamachalco,X
+21155,Tecomatlan,X
+21156,Tehuacan,X
+21157,Tehuitzingo,X
+21158,Tenampulco,X
+21159,Teopantlan,X
+21160,Teotlalco,X
+21161,Tepanco de Lopez,X
+21162,Tepango de Rodriguez,X
+21163,Tepatlaxco de Hidalgo,X
+21164,Tepeaca,X
+21165,Tepemaxalco,X
+21166,Tepeojuma,X
+21167,Tepetzintla,X
+21168,Tepexco,X
+21169,Tepexi de Rodriguez,X
+21170,Tepeyahualco,X
+Code,Label,MX
+,,2000
+21171,Tepeyahualco de Cuauhtemoc,X
+21172,Tetela de Ocampo,X
+21173,Teteles de Avila Castillo,X
+21174,Teziutlan,X
+21175,Tianguismanalco,X
+21176,Tilapa,X
+21177,Tlacotepec de Benito Juarez,X
+21178,Tlacuilotepec,X
+21179,Tlachichuca,X
+21180,Tlahuapan,X
+21181,Tlaltenango,X
+21182,Tlanepantla,X
+21183,Tlaola,X
+21184,Tlapacoya,X
+21185,Tlapanala,X
+21186,Tlatlauquitepec,X
+21187,Tlaxco,X
+21188,Tochimilco,X
+21189,Tochtepec,X
+21190,Totoltepec de Guerrero,X
+21191,Tulcingo,X
+21192,Tuzamapan de Galeana,X
+21193,Tzicatlacoyan,X
+21194,Venustiano Carranza,X
+21195,Vicente Guerrero,X
+Code,Label,MX
+,,2000
+21196,Xayacatlan de Bravo,X
+21197,Xicotepec,X
+21198,Xicotlan,X
+21199,Xiutetelco,X
+21200,Xochiapulco,X
+21201,Xochiltepec,X
+21202,Xochitlan de Vicente Suarez,X
+21203,Xochitlan Todos Santos,X
+21204,Yaonahuac,X
+21205,Yehualtepec,X
+21206,Zacapala,X
+21207,Zacapoaxtla,X
+21208,Zacatlan,X
+21209,Zapotitlan,X
+21210,Zapotitlan de Mendez,X
+21211,Zaragoza,X
+21212,Zautla,X
+21213,Zihuateutla,X
+21214,Zinacatepec,X
+21215,Zongozotla,X
+21216,Zoquiapan,X
+21217,Zoquitlan,X
+,Queretaro,
+22001,Amealco de Bonfil,X
+22002,Pinal de Amoles,X
+Code,Label,MX
+,,2000
+22003,Arroyo Seco,X
+22004,Cadereyta de Montes,X
+22005,Colon,X
+22006,Corregidora,X
+22007,Ezequiel Montes,X
+22008,Huimilpan,X
+22009,Jalpan de Serra,X
+22010,Landa de Matamoros,X
+22011,"Marques, El",X
+22012,Pedro Escobedo,X
+22013,Penamiller,X
+22014,Queretaro,X
+22015,San Joaquin,X
+22016,San Juan del Rio,X
+22017,Tequisquiapan,X
+22018,Toliman,X
+,Quintana Roo,
+23001,Cozumel,X
+23002,Felipe Carrillo Puerto,X
+23003,Isla Mujeres,X
+23004,Othon p. Blanco,X
+23005,Benito Juarez,X
+23006,Jose Maria Morelos,X
+23007,Lazaro Cardenas,X
+23008,Solidaridad,X
+Code,Label,MX
+,,2000
+,San Luis Potosi,
+24001,Ahualulco,X
+24002,Alaquines,X
+24003,Aquismon,X
+24004,Armadillo de los Infante,X
+24005,Cardenas,X
+24006,Catorce,X
+24007,Cedral,X
+24008,Cerritos,X
+24009,Cerro de San Pedro,X
+24010,Ciudad del Maiz,X
+24011,Ciudad Fernandez,X
+24012,Tancanhuitz de Santos,X
+24013,Ciudad Valles,X
+24014,Coxcatlan,X
+24015,Charcas,X
+24016,Ebano,X
+24017,Guadalcazar,X
+24018,Huehuetlan,X
+24019,Lagunillas,X
+24020,Matehuala,X
+24021,Mexquitic de Carmona,X
+24022,Moctezuma,X
+24023,Rayon,X
+24024,Rioverde,X
+Code,Label,MX
+,,2000
+24025,Salinas,X
+24026,San Antonio,X
+24027,San Ciro de Acosta,X
+24028,San Luis Potosi,X
+24029,San Martin Chalchicuautla,X
+24030,San Nicolas Tolentino,X
+24031,Santa Catarina,X
+24032,Santa Maria del Rio,X
+24033,Santo Domingo,X
+24034,San Vicente Tancuayalab,X
+24035,Soledad de Graciano Sanchez,X
+24036,Tamasopo,X
+24037,Tamazunchale,X
+24038,Tampacan,X
+24039,Tampamolon Corona,X
+24040,Tamuin,X
+24041,Tanlajas,X
+24042,Tanquian de Escobedo,X
+24043,Tierra Nueva,X
+24044,Vanegas,X
+24045,Venado,X
+24046,Villa de Arriaga,X
+24047,Villa de Guadalupe,X
+24048,Villa de la Paz,X
+24049,Villa de Ramos,X
+Code,Label,MX
+,,2000
+24050,Villa de Reyes,X
+24051,Villa Hidalgo,X
+24052,Villa Juarez,X
+24053,Axtla de Terrazas,X
+24054,Xilitla,X
+24055,Zaragoza,X
+24056,Villa de Arista,X
+24057,Matlapa,X
+24058,"Naranjo, El",X
+,Sinaloa,
+25001,Ahome,X
+25002,Angostura,X
+25003,Badiraguato,X
+25004,Concordia,X
+25005,Cosala,X
+25006,Culiacan,X
+25007,Choix,X
+25008,Elota,X
+25009,Escuinapa,X
+25010,"Fuerte, El",X
+25011,Guasave,X
+25012,Mazatlan,X
+25013,Mocorito,X
+25014,Rosario,X
+25015,Salvador Alvarado,X
+Code,Label,MX
+,,2000
+25016,San Ignacio,X
+25017,Sinaloa,X
+25018,Navolato,X
+,Sonora,
+26001,Aconchi,X
+26002,Agua prieta,X
+26003,Alamos,X
+26004,Altar,X
+26005,Arivechi,X
+26006,Arizpe,X
+26007,Atil,X
+26008,Bacadehuachi,X
+26009,Bacanora,X
+26010,Bacerac,X
+26011,Bacoachi,X
+26012,Bacum,X
+26013,Banamichi,X
+26014,Baviacora,X
+26015,Bavispe,X
+26016,Benjamin Hill,X
+26017,Caborca,X
+26018,Cajeme,X
+26019,Cananea,X
+26020,Carbo,X
+26021,"Colorada, La",X
+Code,Label,MX
+,,2000
+26022,Cucurpe,X
+26023,Cumpas,X
+26024,Divisaderos,X
+26025,Empalme,X
+26026,Etchojoa,X
+26027,Fronteras,X
+26028,Granados,X
+26029,Guaymas,X
+26030,Hermosillo,X
+26031,Huachinera,X
+26032,Huasabas,X
+26033,Huatabampo,X
+26034,Huepac,X
+26035,Imuris,X
+26036,Magdalena,X
+26037,Mazatan,X
+26038,Moctezuma,X
+26039,Naco,X
+26040,Nacori Chico,X
+26041,Nacozari de Garcia,X
+26042,Navojoa,X
+26043,Nogales,X
+26044,Onavas,X
+26045,Opodepe,X
+26046,Oquitoa,X
+Code,Label,MX
+,,2000
+26047,Pitiquito,X
+26048,Puerto Penasco,X
+26049,Quiriego,X
+26050,Rayon,X
+26051,Rosario,X
+26052,Sahuaripa,X
+26053,San Felipe de Jesus,X
+26054,San javier,X
+26055,San Luis Rio Colorado,X
+26056,San Miguel de Horcasitas,X
+26057,San Pedro de la Cueva,X
+26058,Santa Ana,X
+26059,Santa Cruz,X
+26060,Saric,X
+26061,Soyopa,X
+26062,Suaqui Grande,X
+26063,Tepache,X
+26064,Trincheras,X
+26065,Tubutama,X
+26066,Ures,X
+26067,Villa Hidalgo,X
+26068,Villa Pesqueira,X
+26069,Yecora,X
+26070,General Plutarco Elias Calles,X
+26071,Benito Juarez,X
+Code,Label,MX
+,,2000
+26072,San Ignacio Rio Muerto,X
+,Tabasco,
+27001,Balancan,X
+27002,Cardenas,X
+27003,Centla,X
+27004,Centro,X
+27005,Comalcalco,X
+27006,Cunduacan,X
+27007,Emiliano Zapata,X
+27008,Huimanguillo,X
+27009,Jalapa,X
+27010,Jalpa de Mendez,X
+27011,Jonuta,X
+27012,Macuspana,X
+27013,Nacajuca,X
+27014,Paraiso,X
+27015,Tacotalpa,X
+27016,Teapa,X
+27017,Tenosique,X
+,Tamaulipas,
+28001,Abasolo,X
+28002,Aldama,X
+28003,Altamira,X
+28004,Antiguo Morelos,X
+28005,Burgos,X
+Code,Label,MX
+,,2000
+28006,Bustamante,X
+28007,Camargo,X
+28008,Casas,X
+28009,Ciudad Madero,X
+28010,Cruillas,X
+28011,Gomez Farias,X
+28012,Gonzalez,X
+28013,Guemez,X
+28014,Guerrero,X
+28015,Gustavo Diaz Ordaz,X
+28016,Hidalgo,X
+28017,Jaumave,X
+28018,Jimenez,X
+28019,Llera,X
+28020,Mainero,X
+28021,"Mante, El",X
+28022,Matamoros,X
+28023,Mendez,X
+28024,Mier,X
+28025,Miguel Aleman,X
+28026,Miquihuana,X
+28027,Nuevo Laredo,X
+28028,Nuevo Morelos,X
+28029,Ocampo,X
+28030,Padilla,X
+Code,Label,MX
+,,2000
+28031,Palmillas,X
+28032,Reynosa,X
+28033,Rio Bravo,X
+28034,San Carlos,X
+28035,San Fernando,X
+28036,San Nicolas,X
+28037,Soto la Marina,X
+28038,Tampico,X
+28039,Tula,X
+28040,Valle Hermoso,X
+28041,Victoria,X
+28042,Villagran,X
+28043,Xicotencatl,X
+,Tlaxcala,
+29001,Amaxac de Guerrero,X
+29002,Apetatitlan de Antonio Carvajal,X
+29003,Atlangatepec,X
+29004,Altzayanca,X
+29005,Apizaco,X
+29006,Calpulalpan,X
+29007,"Carmen Tequexquitla, El",X
+29008,Cuapiaxtla,X
+29009,Cuaxomulco,X
+29010,Chiautempan,X
+29011,Munoz de Domingo Arenas,X
+Code,Label,MX
+,,2000
+29012,Espanita,X
+29013,Huamantla,X
+29014,Hueyotlipan,X
+29015,Ixtacuixtla de Mariano Matamoros,X
+29016,Ixtenco,X
+29017,Mazatecochco de Jose Maria Morelos,X
+29018,Contla de Juan cuamatzi,X
+29019,Tepetitla de Lardizabal,X
+29020,Sanctorum de Lazaro Cardenas,X
+29021,Nanacamilpa de Mariano Arista,X
+29022,Acuamanala de Miguel Hidalgo,X
+29023,Nativitas,X
+29024,Panotla,X
+29025,San Pablo del Monte,X
+29026,Santa Cruz Tlaxcala,X
+29027,Tenancingo,X
+29028,Teolocholco,X
+29029,Tepeyanco,X
+29030,Terrenate,X
+29031,Tetla de la Solidaridad,X
+29032,Tetlatlahuca,X
+29033,Tlaxcala,X
+29034,Tlaxco,X
+29035,Tocatlan,X
+29036,Totolac,X
+Code,Label,MX
+,,2000
+29037,Zitlaltepec de Trinidad Sanchez Santos,X
+29038,Tzompantepec,X
+29039,Xaloztoc,X
+29040,Xaltocan,X
+29041,Papalotla de Xicohtencatl,X
+29042,Xicohtzinco,X
+29043,Yauhquemecan,X
+29044,Zacatelco,X
+29045,Benito Juarez,X
+29046,Emiliano Zapata,X
+29047,Lazaro Cardenas,X
+29048,"Magdalena Tlaltelulco, La",X
+29049,San Damian Texoloc,X
+29050,San Francisco Tetlanohcan,X
+29051,San Jeronimo Zacualpan,X
+29052,San Jose Teacalco,X
+29053,San Juan Huactzinco,X
+29054,San Lorenzo Axocomanitla,X
+29055,San Lucas Tecopilco,X
+29056,Santa Ana Nopalucan,X
+29057,Santa Apolonia Teacalco,X
+29058,Santa Catarina Ayometla,X
+29059,Santa Cruz Quilehtla,X
+29060,Santa Isabel Xiloxoxtla,X
+,Veracruz,
+Code,Label,MX
+,,2000
+30001,Acajete,X
+30002,Acatlan,X
+30003,Acayucan,X
+30004,Actopan,X
+30005,Acula,X
+30006,Acultzingo,X
+30007,Camaron de Tejeda,X
+30008,Alpatlahuac,X
+30009,Alto Lucero de Gutierrez Barrios,X
+30010,Altotonga,X
+30011,Alvarado,X
+30012,Amatitlan,X
+30013,Naranjos Amatlan,X
+30014,Amatlan de los Reyes,X
+30015,Angel R. Cabada,X
+30016,"Antigua, La",X
+30017,Apazapan,X
+30018,Aquila,X
+30019,Astacinga,X
+30020,Atlahuilco,X
+30021,Atoyac,X
+30022,Atzacan,X
+30023,Atzalan,X
+30024,Tlaltetela,X
+30025,Ayahualulco,X
+Code,Label,MX
+,,2000
+30026,Banderilla,X
+30027,Benito Juarez,X
+30028,Boca del Rio,X
+30029,Calcahualco,X
+30030,Camerino Z. Mendoza,X
+30031,Carrillo Puerto,X
+30032,Catemaco,X
+30033,Cazones,X
+30034,Cerro azul,X
+30035,Citlaltepetl,X
+30036,Coacoatzintla,X
+30037,Coahuitlan,X
+30038,Coatepec,X
+30039,Coatzacoalcos,X
+30040,Coatzintla,X
+30041,Coetzala,X
+30042,Colipa,X
+30043,Comapa,X
+30044,Cordoba,X
+30045,Cosamaloapan de Carpio,X
+30046,Cosautlan de Carvajal,X
+30047,Coscomatepec,X
+30048,Cosoleacaque,X
+30049,Cotaxtla,X
+30050,Coxquihui,X
+Code,Label,MX
+,,2000
+30051,Coyutla,X
+30052,Cuichapa,X
+30053,Cuitlahuac,X
+30054,Chacaltianguis,X
+30055,Chalma,X
+30056,Chiconamel,X
+30057,Chiconquiaco,X
+30058,Chicontepec,X
+30059,Chinameca,X
+30060,Chinampa de Gorostiza,X
+30061,"Choapas, Las",X
+30062,Chocaman,X
+30063,Chontla,X
+30064,Chumatlan,X
+30065,Emiliano Zapata,X
+30066,Espinal,X
+30067,Filomeno Mata,X
+30068,Fortin,X
+30069,Gutierrez Zamora,X
+30070,Hidalgotitlan,X
+30071,Huatusco,X
+30072,Huayacocotla,X
+30073,Hueyapan de Ocampo,X
+30074,Huiloapan,X
+30075,Ignacio de la Llave,X
+Code,Label,MX
+,,2000
+30076,Ilamatlan,X
+30077,Isla,X
+30078,Ixcatepec,X
+30079,Ixhuacan de los Reyes,X
+30080,Ixhuatlan del Cafe,X
+30081,Ixhuatlancillo,X
+30082,Ixhuatlan del Sureste,X
+30083,Ixhuatlan de Madero,X
+30084,Ixmatlahuacan,X
+30085,Ixtaczoquitlan,X
+30086,Jalacingo,X
+30087,Xalapa,X
+30088,Jalcomulco,X
+30089,Jaltipan,X
+30090,Jamapa,X
+30091,Jesus Carranza,X
+30092,Xico,X
+30093,Jilotepec,X
+30094,Juan Rodriguez Clara,X
+30095,Juchique de Ferrer,X
+30096,Landero y Coss,X
+30097,Lerdo de Tejada,X
+30098,Magdalena,X
+30099,Maltrata,X
+30100,Manlio Fabio Altamirano,X
+Code,Label,MX
+,,2000
+30101,Mariano Escobedo,X
+30102,Martinez de la Torre,X
+30103,Mecatlan,X
+30104,Mecayapan,X
+30105,Medellin,X
+30106,Miahuatlan,X
+30107,"Minas, Las",X
+30108,Minatitlan,X
+30109,Misantla,X
+30110,Mixtla de Altamirano,X
+30111,Moloacan,X
+30112,Naolinco,X
+30113,Naranjal,X
+30114,Nautla,X
+30115,Nogales,X
+30116,Oluta,X
+30117,Omealca,X
+30118,Orizaba,X
+30119,Otatitlan,X
+30120,Oteapan,X
+30121,Ozuluama de Mascarenas,X
+30122,Pajapan,X
+30123,Panuco,X
+30124,Papantla,X
+30125,Paso del Macho,X
+Code,Label,MX
+,,2000
+30126,Paso de Ovejas,X
+30127,"Perla, La",X
+30128,Perote,X
+30129,Platon Sanchez,X
+30130,Playa Vicente,X
+30131,Poza Rica de Hidalgo,X
+30132,"Vigas de Ramirez, Las",X
+30133,Pueblo Viejo,X
+30134,Puente Nacional,X
+30135,Rafael Delgado,X
+30136,Rafael lucio,X
+30137,"Reyes, Los",X
+30138,Rio Blanco,X
+30139,Saltabarranca,X
+30140,San Andres Tenejapan,X
+30141,San Andres Tuxtla,X
+30142,San Juan Evangelista,X
+30143,Santiago Tuxtla,X
+30144,Sayula de Aleman,X
+30145,Soconusco,X
+30146,Sochiapa,X
+30147,Soledad Atzompa,X
+30148,Soledad de Doblado,X
+30149,Soteapan,X
+30150,Tamalin,X
+Code,Label,MX
+,,2000
+30151,Tamiahua,X
+30152,Tampico Alto,X
+30153,Tancoco,X
+30154,Tantima,X
+30155,Tantoyuca,X
+30156,Tatatila,X
+30157,Castillo de Teayo,X
+30158,Tecolutla,X
+30159,Tehuipango,X
+30160,Temapache,X
+30161,Tempoal,X
+30162,Tenampa,X
+30163,Tenochtitlan,X
+30164,Teocelo,X
+30165,Tepatlaxco,X
+30166,Tepetlan,X
+30167,Tepetzintla,X
+30168,Tequila,X
+30169,Jose Azueta,X
+30170,Texcatepec,X
+30171,Texhuacan,X
+30172,Texistepec,X
+30173,Tezonapa,X
+30174,Tierra Blanca,X
+30175,Tihuatlan,X
+Code,Label,MX
+,,2000
+30176,Tlacojalpan,X
+30177,Tlacolulan,X
+30178,Tlacotalpan,X
+30179,Tlacotepec de Mejia,X
+30180,Tlachichilco,X
+30181,Tlalixcoyan,X
+30182,Tlalnelhuayocan,X
+30183,Tlapacoyan,X
+30184,Tlaquilpa,X
+30185,Tlilapan,X
+30186,Tomatlan,X
+30187,Tonayan,X
+30188,Totutla,X
+30189,Tuxpam,X
+30190,Tuxtilla,X
+30191,Ursulo Galvan,X
+30192,Vega de Alatorre,X
+30193,Veracruz,X
+30194,Villa Aldama,X
+30195,Xoxocotla,X
+30196,Yanga,X
+30197,Yecuatla,X
+30198,Zacualpan,X
+30199,Zaragoza,X
+30200,Zentla,X
+Code,Label,MX
+,,2000
+30201,Zongolica,X
+30202,Zontecomatlan de Lopez y Fuentes,X
+30203,Zozocolco de Hidalgo,X
+30204,Agua Dulce,X
+30205,"Higo, El",X
+30206,Nanchital de Lazaro Cardenas del Rio,X
+30207,Tres Valles,X
+30208,Carlos A. Carrillo,X
+30209,Tatahuicapan de Juarez,X
+30210,Uxpanapa,X
+,Yucatan,
+31001,Abala,X
+31002,Acanceh,X
+31003,Akil,X
+31004,Baca,X
+31005,Bokoba,X
+31006,Buctzotz,X
+31007,Cacalchen,X
+31008,Calotmul,X
+31009,Cansahcab,X
+31010,Cantamayec,X
+31011,Celestun,X
+31012,Cenotillo,X
+31013,Conkal,X
+31014,Cuncunul,X
+Code,Label,MX
+,,2000
+31015,Cuzama,X
+31016,Chacsinkin,X
+31017,Chankom,X
+31018,Chapab,X
+31019,Chemax,X
+31020,Chicxulub Pueblo,X
+31021,Chichimila,X
+31022,Chikindzonot,X
+31023,Chochola,X
+31024,Chumayel,X
+31025,Dzan,X
+31026,Dzemul,X
+31027,Dzidzantun,X
+31028,Dzilam de Bravo,X
+31029,Dzilam Gonzalez,X
+31030,Dzitas,X
+31031,Dzoncauich,X
+31032,Espita,X
+31033,Halacho,X
+31034,Hocaba,X
+31035,Hoctun,X
+31036,Homun,X
+31037,Huhi,X
+31038,Hunucma,X
+31039,Ixil,X
+Code,Label,MX
+,,2000
+31040,Izamal,X
+31041,Kanasin,X
+31042,Kantunil,X
+31043,Kaua,X
+31044,Kinchil,X
+31045,Kopoma,X
+31046,Mama,X
+31047,Mani,X
+31048,Maxcanu,X
+31049,Mayapan,X
+31050,Merida,X
+31051,Mococha,X
+31052,Motul,X
+31053,Muna,X
+31054,Muxupip,X
+31055,Opichen,X
+31056,Oxkutzcab,X
+31057,Panaba,X
+31058,Peto,X
+31059,Progreso,X
+31060,Quintana Roo,X
+31061,Rio Lagartos,X
+31062,Sacalum,X
+31063,Samahil,X
+31064,Sanahcat,X
+Code,Label,MX
+,,2000
+31065,San Felipe,X
+31066,Santa Elena,X
+31067,Seye,X
+31068,Sinanche,X
+31069,Sotuta,X
+31070,Sucila,X
+31071,Sudzal,X
+31072,Suma,X
+31073,Tahdziu,X
+31074,Tahmek,X
+31075,Teabo,X
+31076,Tecoh,X
+31077,Tekal de Venegas,X
+31078,Tekanto,X
+31079,Tekax,X
+31080,Tekit,X
+31081,Tekom,X
+31082,Telchac Pueblo,X
+31083,Telchac Puerto,X
+31084,Temax,X
+31085,Temozon,X
+31086,Tepakan,X
+31087,Tetiz,X
+31088,Teya,X
+31089,Ticul,X
+Code,Label,MX
+,,2000
+31090,Timucuy,X
+31091,Tinum,X
+31092,Tixcacalcupul,X
+31093,Tixkokob,X
+31094,Tixmehuac,X
+31095,Tixpehual,X
+31096,Tizimin,X
+31097,Tunkas,X
+31098,Tzucacab,X
+31099,Uayma,X
+31100,Ucu,X
+31101,Uman,X
+31102,Valladolid,X
+31103,Xocchel,X
+31104,Yaxcaba,X
+31105,Yaxkukul,X
+31106,Yobain,X
+,Zacatecas,
+32001,Apozol,X
+32002,Apulco,X
+32003,Atolinga,X
+32004,Benito Juarez,X
+32005,Calera,X
+32006,Canitas de Felipe Pescador,X
+32007,Concepcion del Oro,X
+Code,Label,MX
+,,2000
+32008,Cuauhtemoc,X
+32009,Chalchihuites,X
+32010,Fresnillo,X
+32011,Trinidad Garcia de la Cadena,X
+32012,Genaro codina,X
+32013,General Enrique Estrada,X
+32014,General Francisco R. Murguia,X
+32015,"Plateado de Joaquin Amaro, El",X
+32016,General Panfilo Natera,X
+32017,Guadalupe,X
+32018,Huanusco,X
+32019,Jalpa,X
+32020,Jerez,X
+32021,Jimenez del Teul,X
+32022,Juan aldama,X
+32023,Juchipila,X
+32024,Loreto,X
+32025,Luis Moya,X
+32026,Mazapil,X
+32027,Melchor Ocampo,X
+32028,Mezquital del Oro,X
+32029,Miguel Auza,X
+32030,Momax,X
+32031,Monte Escobedo,X
+32032,Morelos,X
+Code,Label,MX
+,,2000
+32033,Moyahua de Estrada,X
+32034,Nochistlan de Mejia,X
+32035,Noria de Angeles,X
+32036,Ojocaliente,X
+32037,Panuco,X
+32038,Pinos,X
+32039,Rio Grande,X
+32040,Sain Alto,X
+32041,"Salvador, El",X
+32042,Sombrerete,X
+32043,Susticacan,X
+32044,Tabasco,X
+32045,Tepechitlan,X
+32046,Tepetongo,X
+32047,Teul de Gonzalez Ortega,X
+32048,Tlaltenango de Sanchez Roman,X
+32049,Valparaiso,X
+32050,Vetagrande,X
+32051,Villa de Cos,X
+32052,Villa Garcia,X
+32053,Villa Gonzalez Ortega,X
+32054,Villa Hidalgo,X
+32055,Villanueva,X
+32056,Zacatecas,X
+32057,Trancoso,X

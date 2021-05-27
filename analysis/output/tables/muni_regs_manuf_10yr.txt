@@ -1,0 +1,17 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	Chg. Pct. Manuf.	Chg. Pct. Manuf.	Chg. Pct. Manuf.
+				
+RTC2_us00	$ RTC_{r,t}^X$	0.119	-0.106	-0.168
+		(0.335)	(0.216)	(0.227)
+RTC2_mex00	$ RTC_{r,t}^M$	0.0183	-0.178	-0.331
+		(0.430)	(0.304)	(0.263)
+Constant	Constant	0.0184	-0.0138	-0.0500*
+		(0.0426)	(0.0264)	(0.0250)
+				
+Observations		2,327	2,327	2,327
+R-squared		0.002	0.358	0.399
+Weighted		Y	Y	Y
+State FE		N	Y	Y
+Controls		N	N	Y
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

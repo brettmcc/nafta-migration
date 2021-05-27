@@ -1,0 +1,97 @@
+isicr2,isic_2dig,description,isic_2dig_oecd
+1110,11,Agriculture and livestock production,C01T05
+1130,11,"Hunting, trapping and game propagation",C01T05
+1210,12,Forestry,C01T05
+1220,12,Logging,C01T05
+1301,13,Ocean and coastal fishing,C01T05
+1302,13,Fishing not elsewhere classified,C01T05
+2100,21,Coal Mining,C10T14
+2200,22,Crude Petroleum and Natural Gas Production,C10T14
+2301,23,Iron ore mining,C10T14
+2302,23,Non-ferrous ore mining,C10T14
+2901,29,"Stone quarrying, clay and sand pits",C10T14
+2902,29,Chemical and fertilizer mineral mining,C10T14
+2903,29,Salt mining,C10T14
+2909,29,Mining and quarrying not elsewhere classified,C10T14
+3111,31,"Slaughtering, preparing and preserving meat",C15T16
+3112,31,Manufacture of dairy products,C15T16
+3113,31,Canning and preserving of fruits and vegetables,C15T16
+3114,31,"Canning, preserving and processing of fish, crustaces and similar foods",C15T16
+3115,31,Manufacture of vegetable and animal oils and fats,C15T16
+3116,31,Grain mill products,C15T16
+3117,31,Manufacture of bakery products,C15T16
+3118,31,Sugar factories and refineries,C15T16
+3119,31,"Manufacture of cocoa, chocolate and sugar confectionery",C15T16
+3121,31,Manufacture of food products not elsewhere classified,C15T16
+3122,31,Manufacture of prepared animal feeds,C15T16
+3131,31,"Distilling, rectifying and blending spirits",C15T16
+3132,31,Wine industries,C15T16
+3133,31,Malt liquors and malt,C15T16
+3134,31,Soft drinks and carbonated waters industries,C15T16
+3140,31,Tobacco manufactures,C15T16
+3211,32,"Spinning, weaving and finishing textiles",C17T19
+3212,32,Manufacture of made-up textile goods except wearing apparel,C17T19
+3213,32,Knitting mills,C17T19
+3214,32,Manufacture of carpets and rugs,C17T19
+3215,32,"Cordage, rope and twine industries",C17T19
+3219,32,Manufacture of textiles not elsewhere classified,C17T19
+3220,32,"Manufacture of wearing apparel, except footwear",C17T19
+3231,32,Tanneries and leather finishing,C17T19
+3232,32,Fur dressing and dyeing industries,C17T19
+3233,32,"Manufacture of products of leather and leather substitutes, except footwear and wearing apparel",C17T19
+3240,32,"Manufacture of footwear, except vulcanized or moulded rubber or plastic footwear",C17T19
+3311,33,"Sawmills, planing and other wood mills",C20
+3312,33,Manufacture of wooden and cane containers and small cane ware,C20
+3319,33,Manufacture of wood and cork products not elsewhere classified,C20
+3320,33,"Manufacture of furniture and fixtures, except primarily of metal",C20
+3411,34,"Manufacture of pulp, paper and paperboard",C21T22
+3412,34,Manufacture of containers and boxes of paper and paperboard,C21T22
+3419,34,"Manufacture of pulp, paper and paperboard articles not elsewhere classified",C21T22
+3420,34,"Printing, publishing and allied industries",C21T22
+3511,35,Manufacture of basic industrial chemicals except fertilizers,C24
+3512,35,Manufacture of fertilizers and pesticides,C24
+3513,35,"Manufacture of synthetic resins, plastic materials and man-made fibres except glass",C24
+3521,35,"Manufacture of paints, varnishes and laquers",C24
+3522,35,Manufacture of drugs and medicines,C24
+3523,35,"Manufacture of soap and cleaning preparations, perfumes, cosmetics and other toilet preparations",C24
+3529,35,Manufacture of chemical products not elsewhere classified,C24
+3530,35,Petroleum refineries,C23
+3540,35,Manufacture of miscellaneous products of petroleum and coal,C23
+3551,35,Tyre and tube industries,C25
+3559,35,Manufacture of rubber products not elsewhere classified,C25
+3560,35,Manufacture of plastic products not elsewhere classified,C25
+3610,36,"Manufacture of pottery, china and earthenware",C26
+3620,36,Manufacture of glass and glass products,C26
+3691,36,Manufacture of structural clay products,C26
+3692,36,"Manufacture of cement, lime and plaster",C26
+3699,36,Manufacture of non-metallic mineral products not elsewhere classified,C26
+3710,37,Iron and steel basic industries,C27
+3720,37,Non-ferrous metal basic industries,C27
+3811,38,"Manufacture of cutlery, hand tools and general hardware",C28
+3812,38,Manufacture of furniture and fixtures primarily of metal,C28
+3813,38,Manufacture of structural metal products,C28
+3819,38,Manufacture of fabricated metal products except machinery and equipment not elsewhere classified,C28
+3821,38,Manufacture of engines and turbines,C29
+3822,38,Manufacture of agricultural machinery and equipment,C29
+3823,38,Manufacture of metal and wood working machinery,C29
+3824,38,Manufacture of special industrial machinery and equipment except metal and wood working machinery,C29
+3825,38,"Manufacture of office, computing and accounting machinery",C29
+3829,38,Machinery and equipment except electrical not elsewhere classified,C29
+3831,38,Manufacture of electrical industrial machinery and apparatus,C30T33X
+3832,38,"Manufacture of radio, television and communication equipment and apparatus",C30T33X
+3833,38,Manufacture of electrical appliances and housewares,C29
+3839,38,Manufacture of electrical apparatus and supplies not elsewhere classified,C31
+3841,38,Ship building and repairing,C35
+3842,38,Manufacture of railroad eqquipment,C35
+3843,38,Manufacture of motor vehicles,C34
+3844,38,Manufacture of motorcycles and bicycles,C35
+3845,38,Manufacture of aircraft,C35
+3849,38,Manufacture of transport equipment not elsewhere classified,C35
+3851,38,"Manufacture of professional and scientific, and measuring and controlling equipment not elsewhere classified",C30T33X
+3852,38,Manufacture of photographic and optical goods,C30T33X
+3853,38,Manufacture of watches and clocks,C30T33X
+3901,39,Manufacture of jewellery and related articles,C36T37
+3902,39,Manufacture of musical instruments,C36T37
+3903,39,Manufacture of sporting and athletic goods,C36T37
+3909,39,Manufacturing industries not elsewhere classified,C36T37
+4101,41,Electric light and power,C40T41

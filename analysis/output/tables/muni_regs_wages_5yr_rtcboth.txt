@@ -1,0 +1,17 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	chg_ln_real_incearn	chg_ln_real_incearn	chg_ln_real_incearn	chg_ln_real_incearn
+					
+RTC2_us00	$ RTC_{r,t}^X$	0.0933	0.0933	-0.158	-1.841**
+		(0.836)	(0.836)	(0.801)	(0.899)
+RTC2_mex00	$ RTC_{r,t}^M$	-1.982	-1.982	-1.862	0.425
+		(1.379)	(1.379)	(1.390)	(1.271)
+Constant	Constant	-0.218	-0.218	-0.257*	-0.168
+		(0.137)	(0.137)	(0.152)	(0.149)
+					
+Observations		616	616	616	616
+R-squared		0.004	0.004	0.069	0.275
+Weighted		Y	Y	Y	Y
+State FE		N	N	N	Y
+Controls		N	N	N	Y
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

@@ -1,0 +1,22 @@
+		(1)	(2)
+VARIABLES	LABELS	chg_intl_mig_rt2	chg_intl_mig_rt2
+			
+dRTC_us		2.887**	2.389*
+		(1.242)	(1.319)
+dRTC_mex		0.257	0.596
+		(0.355)	(0.395)
+L5.employed_female_lag			0.146
+			(0.160)
+L5.secondary_school_plus_lag			-0.0539
+			(0.172)
+L5.homeowner_lag			-0.133
+			(0.105)
+L5.urban_dummy_lag			0.00293
+			(0.0329)
+Constant	Constant	-0.0790**	0.0175
+		(0.0356)	(0.101)
+			
+Observations		628	628
+R-squared		0.009	0.017
+Standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

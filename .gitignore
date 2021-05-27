@@ -1,0 +1,5 @@
+build/input/ipumsi_mex_census05.dta
+build/input/ipumsi_mex_census90-00_interstatemig.dta
+build/input/ipumsi_mex_census90-95-00.csv
+build/temp/*
+analysis/input/*

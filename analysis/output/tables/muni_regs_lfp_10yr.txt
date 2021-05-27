@@ -1,0 +1,17 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	Chg. LFP	Chg. LFP	Chg. LFP
+				
+RTC2_us00	$ RTC_{r,t}^X$	-0.943***	-0.819***	-0.578***
+		(0.178)	(0.151)	(0.159)
+RTC2_mex00	$ RTC_{r,t}^M$	-0.152	-0.350	0.0250
+		(0.318)	(0.266)	(0.224)
+Constant	Constant	0.0148	-0.000200	0.0451*
+		(0.0317)	(0.0259)	(0.0256)
+				
+Observations		2,327	2,327	2,327
+R-squared		0.055	0.147	0.217
+Weighted		Y	Y	Y
+State FE		N	Y	Y
+Controls		N	N	Y
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

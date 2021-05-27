@@ -1,0 +1,21 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	intl_mig_rt2	intl_mig_rt2	intl_mig_rt2
+				
+L5.RTC2_us5yr		0.127	0.558	0.832
+		(0.435)	(0.584)	(0.773)
+L5.RTC2_mex5yr		-1.534***	-1.393***	-1.091**
+		(0.331)	(0.390)	(0.522)
+L5.chg_prop_ejido_activated_norm			-1.799	-0.0209
+			(3.139)	(3.474)
+cL5.RTC2_us5yr#cL5.chg_prop_ejido_activated_norm			-29.19	-15.11
+			(35.68)	(36.00)
+cL5.RTC2_mex5yr#cL5.chg_prop_ejido_activated_norm			-9.368	4.488
+			(22.82)	(26.49)
+Constant	Constant	-0.0619*	-0.0360	-0.00257
+		(0.0348)	(0.0414)	(0.0593)
+				
+Observations		628	628	628
+R-squared		0.025	0.029	0.152
+State FE		N	N	Y
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

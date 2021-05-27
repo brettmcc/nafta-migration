@@ -1,0 +1,15 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	% Chg. Pop.	Intermuni. Inflow Rate	Intermuni. Outflow Rate	Intl. Inflow Rate	Intl. Emig. Rt-Census q.	Intl. Emig. Rt-Net Mig. Method
+							
+RTC2_us00	$ RTC_{r,t}^X$	-0.910*	-0.440	-0.259	0.0274	0.729**	-0.0361
+		(0.487)	(0.367)	(0.309)	(0.0416)	(0.308)	(0.126)
+RTC2_mex00	$ RTC_{r,t}^M$	-2.512***	-1.752***	-0.762	0.0371	1.501***	0.592***
+		(0.831)	(0.530)	(0.552)	(0.0961)	(0.469)	(0.199)
+Constant	Constant	-0.354***	-0.144**	-0.0397	0.0113	0.241***	0.0805***
+		(0.0800)	(0.0545)	(0.0638)	(0.0103)	(0.0445)	(0.0232)
+							
+Observations		2,281	2,281	2,281	2,281	2,281	2,281
+R-squared		0.070	0.063	0.034	0.003	0.061	0.028
+Weighted		Y	Y	Y	Y	Y	Y
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

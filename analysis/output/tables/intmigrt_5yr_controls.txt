@@ -1,0 +1,26 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	intl_mig_rt2	intl_mig_rt2	intl_mig_rt2
+				
+RTC_us5yr	Export RTC (U.S.)	2.325***	0.162	0.195
+		(0.722)	(0.482)	(0.531)
+RTC_mex5yr	Import RTC	0.698***	0.701**	0.625**
+		(0.200)	(0.307)	(0.302)
+1995b.year		0	0	0
+		(0)	(0)	(0)
+2000.year		-0.0851***	0.00268	0.00470
+		(0.0206)	(0.0169)	(0.0176)
+employed_female_lag	(mean) employed		-0.147***	-0.151***
+			(0.0275)	(0.0339)
+secondary_school_plus_lag	(mean) secondary_school_plus		-0.0479	-0.0527*
+			(0.0328)	(0.0294)
+urban_dummy_lag	(mean) urban_dummy			-0.0135
+				(0.0134)
+homeowner_lag	(mean) homeowner			-0.0751
+				(0.0445)
+Constant	Constant	0.197***	0.162***	0.229***
+		(0.0281)	(0.0248)	(0.0506)
+				
+Observations		1,249	1,249	1,249
+R-squared		0.064	0.185	0.198
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
